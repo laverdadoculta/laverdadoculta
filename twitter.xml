@@ -1,0 +1,10 @@
+<FeedFlareUnit>
+<Catalog>
+<Title>Twitter</Title>
+<Description>Twittea este post</Description>
+</Catalog>
+<FeedFlare>
+<Text>Twitter</Text>
+<Link href="http://twitter.com/home?status=${link}+${title}"/>
+</FeedFlare>
+</FeedFlareUnit>

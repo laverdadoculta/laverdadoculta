@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FeedFlareUnit>
+<Catalog>
+	<Title>Enviar por mail</Title>
+	<Description>
+		Envía esta publicación por correo elctrónico
+	</Description>
+</Catalog>
+<FeedFlare>
+	<Text>Enviar</Text>
+	<Link href="http://www.feedburner.com/fb/a/emailFlare?itemTitle=${title}&amp;uri=${link}"/>
+</FeedFlare>
+</FeedFlareUnit>

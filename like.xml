@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FeedFlareUnit><Catalog><Title>Me gusta</Title><Description>"Me gusta" de Facebook</Description></Catalog><FeedFlare><Text>Me gusta</Text><Link href="http://www.facebook.com/plugins/like.php?href=${link}"/></FeedFlare></FeedFlareUnit>
+<FeedFlareUnit><Catalog><Title>Facebook</Title><Description>"Me gusta" de Facebook</Description></Catalog><FeedFlare><Text>Facebook</Text><Link href="http://www.facebook.com/plugins/like.php?href=${link}"/></FeedFlare></FeedFlareUnit>

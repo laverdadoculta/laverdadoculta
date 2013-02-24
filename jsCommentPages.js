@@ -55,6 +55,6 @@ var jsCommentPages = function(){
 		  	$activePage = $("#" + $activeTab.attr("id") + "-page");
 		  	$activePage.show();
 		};
-	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='text/css' href='http://laverdadoculta.googlecode.com/svn/jsCommentPages.css'/>");
+	$("head").append("<link id='js-comments-pages-styles' rel='stylesheet' type='text/css' href='http://jsblogstop.googlecode.com/svn/commentpages/jsCommentPages.css'/>");
   	$("document").ready(init);
 }();

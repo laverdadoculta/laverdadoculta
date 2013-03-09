@@ -5,15 +5,6 @@ body#layout #headbox{display:none;}
 body#layout .header-bottom{height:120px;}
 body#layout .header-advertising{height:100px;}
 
-/* Variable definitions
-   ====================
-
-*/
-
-/* Use this with templates/template-twocol.html */
-
-/* ------- This is the CSS Reset ------- */
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
 abbr, acronym, address, big, cite, code, del,
@@ -31,8 +22,6 @@ nav, output, ruby, section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-
-/* ------- HTML5 display-role reset for older browsers ------- */
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -70,8 +59,6 @@ a:link,a:visited{color:#004A72;text-decoration:none;outline:none;}
 a:hover{color:#004A72;text-decoration:none;outline:none;}
 a img{border-width:0}
 
-/* ------- Clearfix ------- */
-
 .clearfix:after {
 	content: ".";
 	display: block;
@@ -80,16 +67,9 @@ a img{border-width:0}
 	visibility: hidden;
 }
 .clearfix { display: inline-block; }
-/* Hides from IE-mac \*/
+
 .clearfix { display: block; }
-/* End hide from IE-mac */
 
-
-/* --------------------------------------------------------------------------------- */
-
-
-
-/* ------- Body ------- */
 body{background:#E8E8E8 url(http://2.bp.blogspot.com/-JiDBWx5JOeQ/UQAy4qfNB9I/AAAAAAAAEIU/Ch8qo3JupC0/s1600/body-bg.jpg) top left repeat;font-size:13px;font-family:Arial,Tahoma,Verdana;font-weight:400;text-align:center;}
 strong{font-weight:700;}
 #headerwrap{height:190px;text-align:left;margin:0 auto;}

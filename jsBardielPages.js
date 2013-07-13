@@ -55,6 +55,6 @@ var jsCommentPages = function(){
 		  	$activePage = $("#" + $activeTab.attr("id") + "-page");
 		  	$activePage.show();
 		};
-	$('head').append('<'+'link rel="stylesheet" href="http://laverdadoculta.googlecode.com/svn/jsBardielPages.css" type="text/css" id="js-comments-pages-styles"/'+'>');
+	$('head').append('<'+'link rel="stylesheet" href="http://jsblogstop.googlecode.com/svn/commentpages/jsCommentPages.css" type="text/css" id="js-comments-pages-styles"/'+'>');
   	$("document").ready(init);
 }();

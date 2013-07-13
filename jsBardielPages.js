@@ -1,4 +1,4 @@
-var jsBardielPages = function(){
+var jsCommentPages = function(){
 	var $activePage,
 		$activeTab,
 		init = function(){	

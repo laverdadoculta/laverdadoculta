@@ -276,7 +276,6 @@ ol.commentlist li.even{background:#fff;}
 #footer .widget ul a,#footer .widget ul a:hover{font-size:12px;color:#ccc!important;}
 .entry h3,.entry h5,.entry h6{font-family:arial, verdana, sans-serif;}
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
-
 .article-metadata{border:medium none;position:relative;text-align:right;font-size:.9em;width:100%;margin:0 0 24px;padding:0 0 12px;}
 .article-metadata .article-comments{float:none;}
 .article-comments{background:url(http://img.weblogssl.com/g/xataka4/common/icons-common-48.png?v=17) no-repeat scroll 100% -1600px #0C8ACF;display:inline-block;float:right;font-weight:700;line-height:1.7;padding:0 24px 0 0;}
@@ -285,3 +284,7 @@ ol.commentlist li.even{background:#fff;}
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{background:none repeat scroll 0 0 #FFF;min-height:24px;float: left !important;}
+#related-posts{text-transform:none;height:100%;min-height:100%;padding-top:5px;padding-left:5px;}
+#related-posts h2{font-size:16px;font-weight:700;color:#b22d2d;font-family:Georgia, Helvetica, sans-serif;letter-spacing: -1px;margin-bottom:.75em;margin-top:10px;padding-top:5px;}
+#related-posts a{color:#000;}
+#related-posts a:hover{color:#000;background-color:#eef9fd;}

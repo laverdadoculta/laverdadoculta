@@ -91,6 +91,9 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #logo{float:left;width:auto;font-family:georgia,garamond,serif;margin: 20px 10px 20px 13px;}
 #logo a{color:#333;display:block;font-size:26px;letter-spacing:-1px;}
 #logo a span{font-size:16px;padding-left:5px;display:block;}
+#social{margin-top:15px;}
+#social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
+#social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
 #mainmenu{width:960px;background: url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index: 10;}
 .mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
@@ -282,7 +285,3 @@ ol.commentlist li.even{background:#fff;}
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{background:none repeat scroll 0 0 #FFF;min-height:24px;float: left !important;}
-
-#social{margin-top:15px;}
-#social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
-#social img:hover{opacity:0.6;}

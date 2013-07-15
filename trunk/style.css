@@ -26,7 +26,7 @@ h5 { font-size:14px; }
 h6 { font-size:12px; }
 
 .widget .widget{width:auto!important;margin:0!important;}
-.widget .title{color:#b22d2d;font:bold 16px Georgia, tahoma, sans-serif;letter-spacing:-1px;border-bottom:none;margin:0 0 5px;padding:0;}
+.widget .title{color:#222;font:bold 16px Georgia, tahoma, sans-serif;letter-spacing:-1px;border-bottom:none;margin:0 0 5px;padding:0;}
 .widget p{margin-bottom:10px;}
 .widget ul{clear:both;padding-left:5px;list-style-position:inside;list-style-type:disc;}
 .widget ul li{padding-bottom:8px;margin-bottom:7px;}

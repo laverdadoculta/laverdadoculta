@@ -260,7 +260,7 @@ ol.commentlist li.even{background:#fff;}
 #mainmenu .widget ul,#mhead .widget ul{padding-left:0;}
 .widget_rss a.rsswidget,.metasingle a:hover,#bcrum a:hover{color:#000;}
 .widget a,.widget .title a,.widget .title a:hover{color:#069;}
-#wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#069;}
+#wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#636363;}
 #wrapper .postmeta a:hover,#mediabar li a:hover,#footer_data a:hover,.entry a:hover,#entryMeta a:hover,.archiveTitle a:hover,.navigation a:active,.navigation a:hover,#comments a:hover,li span.comment-meta a:hover{text-decoration:underline;}
 .posttitle a,.featured_right a,#mediabar li a,#bcrum a,li div.comment-author a{color:#222;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}

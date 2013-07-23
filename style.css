@@ -126,6 +126,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #featured_right p{margin:7px 0 4px;}
 .featured_right{font-size:15px;font-weight:700;line-height:1.1em;}
 #mediabar{position:relative;width:595px;height:210px;overflow:hidden;padding-left:25px;padding-right:25px;border-top:2px solid #ddd;border-bottom:2px solid #ddd;margin-bottom:15px;}
+#mediabar a{color:#000;}
 #mediabar .container{position:absolute;left:25px;width:600px;height:210px;overflow:hidden;}
 #mediabar ul{width:10000px;position:relative;}
 #mediabar li{float:left;width:130px;height:190px;border-right:1px solid #ddd;padding:10px 9px;}

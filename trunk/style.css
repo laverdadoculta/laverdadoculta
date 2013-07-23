@@ -34,7 +34,7 @@ h6 { font-size:12px; }
 .widget img{display:inline;}
 .panes div{border:1px solid #999;background-color:#fff;border-top:0;padding:15px 10px;}
 .panes .pane,.panes .widgettitle{display:none;}
-.panes li span.block{display:block;font-size:11px;}
+.panes li span.block{font-family: Arial, Helvetica, sans-serif;display:block;font-size:11px;}
 .panes li{font-family: Georgia, Helvetica, sans-serif;list-style:disc outside;margin-left:10px;}
 .panes a.pad{display:block;margin:0 0 3px;}
 .tabs{list-style:none;height:33px;border-bottom:1px solid #666;font-size:12px;margin:0!important;padding:0 !important;}

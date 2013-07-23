@@ -112,7 +112,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
 #teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;}
 #teaser .last{border-right:none;width:221px;}
-#teaser .col_teaser:hover{background:#000;}
+#teaser .col_teaser:hover{background:#b22d2d;}
 #teaser .col_teaser:hover a{color:#fff;text-decoration:none;}
 #teaser .teaser_img{float:left;margin-right:10px;width:100px;height:90px;}
 #teaser .posttitle{font-size:14px;line-height:18px;}

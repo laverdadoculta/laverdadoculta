@@ -126,7 +126,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #featured_right p{margin:7px 0 4px;}
 .featured_right{font-size:15px;font-weight:700;line-height:1.1em;}
 #mediabar{position:relative;width:595px;height:210px;overflow:hidden;padding-left:25px;padding-right:25px;border-top:2px solid #ddd;border-bottom:2px solid #ddd;margin-bottom:15px;}
-#mediabar a{color:#000;}
+#mediabar li a{color:#000;}
 #mediabar .container{position:absolute;left:25px;width:600px;height:210px;overflow:hidden;}
 #mediabar ul{width:10000px;position:relative;}
 #mediabar li{float:left;width:130px;height:190px;border-right:1px solid #ddd;padding:10px 9px;}
@@ -263,7 +263,7 @@ ol.commentlist li.even{background:#fff;}
 .widget a,.widget .title a,.widget .title a:hover{color:#069;}
 #wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#000;}
 #wrapper .postmeta a:hover,#mediabar li a:hover,#footer_data a:hover,.entry a:hover,#entryMeta a:hover,.archiveTitle a:hover,.navigation a:active,.navigation a:hover,#comments a:hover,li span.comment-meta a:hover{text-decoration:underline;}
-.posttitle a,.featured_right a,#mediabar li a,#bcrum a,li div.comment-author a{color:#069;}
+.posttitle a,.featured_right a,#bcrum a,li div.comment-author a{color:#069;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}
 .mastheadnav li,.subnav li{float:left;position:relative;}
 .mainnav li ul,.subnav li ul{border-bottom:1px solid #bbb;position:absolute;z-index:999;width:180px;}

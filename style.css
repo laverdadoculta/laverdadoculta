@@ -74,7 +74,7 @@ ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{text-decoration:none;color:#069;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 .widget{font:13px/20px Arial,Helvetica,sans-serif;}
-.widget a:hover,.widget a:active{color:#b22d2d;}
+.widget a:hover,.widget a:active{color:#000;}
 #wrapper .featuredPost{padding-bottom:6px;border-bottom:1px dotted #666;margin-bottom:6px;}
 #wrapper .lastPost{border:none;margin-bottom:0;padding-bottom:0;}
 #wrapper .postmeta{clear:both;display:block;font-size:11px;text-align:right;padding-top:3px;}
@@ -99,7 +99,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 .mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
 .mainnav li{float:left;position:relative;border-left:1px solid #555;}
 .mainnav li a{color:#fff;display:block;padding:8px 15px;}
-.mainnav li a:hover,.mainnav li.current_page_item a,.mainnav li.current-cat a,.mainnav li.current-menu-item a{color:#fff;background:#b22d2d;}
+.mainnav li a:hover,.mainnav li.current_page_item a,.mainnav li.current-cat a,.mainnav li.current-menu-item a{color:#fff;background:#000;}
 .mainnav li ul li{float:none;border-left:none;margin:0;}
 .mainnav li ul li a{color:#333;background:#fff;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
 .mainnav .sf-sub-indicator{background:url(http://4.bp.blogspot.com/-tuSbFOytOds/TrOriScF-II/AAAAAAAAAHc/Hlxmm72DmfY/arrow-superfish-down.png) no-repeat;position:absolute;display:block;right:7px;top:14px;width:10px;height:10px;text-indent:-999em;overflow:hidden;}
@@ -112,13 +112,13 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
 #teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;}
 #teaser .last{border-right:none;width:221px;}
-#teaser .col_teaser:hover{background:#b22d2d;}
+#teaser .col_teaser:hover{background:#000;}
 #teaser .col_teaser:hover a{color:#fff;text-decoration:none;}
 #teaser .teaser_img{float:left;margin-right:10px;width:100px;height:90px;}
 #teaser .posttitle{font-size:14px;line-height:18px;}
 #teaser .active .posttitle a,#teaser .active .posttitle a:hover{color:#fff;}
-#teaser .titleCatName a{font-size:10px;background:#b22d2d;color:#fff;border-bottom:1px solid #999;display:inline-block;margin:0!important;padding:3px 5px;}
-#teaser .active .titleCatName a{background:#fff;color:#b22d2d;}
+#teaser .titleCatName a{font-size:10px;background:#000;color:#fff;border-bottom:1px solid #999;display:inline-block;margin:0!important;padding:3px 5px;}
+#teaser .active .titleCatName a{background:#fff;color:#000;}
 #container{float:left;width:645px;}
 #featured{display:block;margin-bottom:15px;}
 #featured_left{width:405px;float:left;}
@@ -147,7 +147,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 .tableft{float:left;width:300px;}
 .tabright{float:right;width:305px;padding-left:10px;border-left:1px solid #ddd;}
 a.list{color:#333;display:block;margin-left:5px;background:url(http://1.bp.blogspot.com/-RXb1AE4M0hk/TrOta64MA7I/AAAAAAAAAKk/8pFO1M4JeSg/list_a.gif) no-repeat left 8px;padding:2px 0 2px 10px;}
-a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#b22d2d;}
+a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#000;}
 #sidebar{float:right;width:300px;display:inline;}
 #sidebar .widget{margin-bottom:25px;}
 #w2b-mashable{width:292px;margin:auto;padding:0;}

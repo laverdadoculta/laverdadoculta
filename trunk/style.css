@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #header{width:960px;margin:0 auto 10px;}
 #masthead{width:954px;background:#f5f5f5;padding:0 4px 0 2px;}
 .mastheadnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;padding-left:0;}
-.mastheadnav li a{color:#b22d2d;display:block;padding:6px 10px 7px;}
+.mastheadnav li a{color:#069;display:block;padding:6px 10px 7px;}
 #search{width:auto;float:right;height:20px;background:#fff;margin:3px 3px 0 0;}
 #search form,#search fieldset{float:left;margin:0;padding:0;}
 #search fieldset{border:1px solid #ddd;}

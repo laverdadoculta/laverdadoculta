@@ -98,7 +98,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia, Helvetica, sans-serif;font-weight:400;}
 #mainmenu{width:960px;background: url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index: 10;}
 .mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
 .mainnav li{float:left;position:relative;border-left:1px solid #555;}
-.mainnav li a{color:#fff;display:block;padding:8px 15px;transition:all ls;}
+.mainnav li a{color:#fff;display:block;padding:8px 15px;}
 .mainnav li a:hover,.mainnav li.current_page_item a,.mainnav li.current-cat a,.mainnav li.current-menu-item a{color:#fff;background:#b22d2d;}
 .mainnav li ul li{float:none;border-left:none;margin:0;}
 .mainnav li ul li a{color:#333;background:#fff;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}

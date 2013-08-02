@@ -194,38 +194,10 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .metasingle{width:100%;overflow:hidden;color:#777;font-size:11px;margin:0 0 4px;padding:4px 0 5px;}
 .metasingle a{color:#999;}
 .postCategory{padding-left:15px;background:url(http://2.bp.blogspot.com/-ufkUoySMd58/TrOsGsVqB-I/AAAAAAAAAKE/x3S-tihaBjI/folder.gif) no-repeat left center;}
-.entry blockquote {
-*background: url("../i/d/all.png") no-repeat scroll -130px -15px transparent;
-/*border-top: 1px solid #DEDEDE;*/
-color: #000000;
-float: right;
-font-size: 12px;
-font-style: normal;
-font-weight: bold;
-line-height: 20px;
-margin: 5px 10px 10px 0;
-padding: 15px 15px 0 20px;
-width: 150px;
-position: relative;
-}
-
-.entry blockquote:before,
-.entry blockquote:after{
-font-size: 35px;
-position: absolute;
-}
-
-.entry blockquote:before{
-content: "\201c";
-left: -1px;
-top: 22px;
-}
-
-.entry blockquote:after {
-content: "\201d";
-bottom: -7px;
-margin-left: 3px;
-}
+.entry blockquote{background:url(http://3.bp.blogspot.com/-J4kuYtXXjsE/UWYLUrAk4dI/AAAAAAAAS9k/HW0fW1Toikg/s1600/blockquote%5B1%5D.png) no-repeat scroll -130px -15px transparent;color:#000;float:left;font-size:12px;font-style:normal;font-weight:700;line-height:20px;width:150px;position:relative;margin:5px 10px 10px 0;padding:15px 15px 0 20px;}
+.entry blockquote:before,.entry blockquote:after{font-size:35px;position:absolute;}
+.entry blockquote:before{content:"\201c";left:-1px;top:22px;}
+.entry blockquote:after{content:"\201d";bottom:-7px;margin-left:3px;}
 .entry h1.entry_title{display:block;padding-bottom:5px;font:normal 30px/30px Georgia, Helvetica, sans-serif;font-style: normal; letter-spacing: -.03em; line-height: 1.2em;color:#222;margin:0;}
 .entry h1,.entry h2,.entry h3,.entry h4,.entry h5,.entry h6{margin-bottom:15px;margin-top:10px;}
 .entry h1{font-family:Georgia, Helvetica, sans-serif;}

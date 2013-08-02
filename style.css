@@ -52,6 +52,7 @@ h6 { font-size:12px; }
 .gab_share_widget a img{display:block;float:left;margin:2px 4px 0 0;}
 .gab_share_widget a:hover img{margin:0 4px 0 0;}
 .entry img{max-width:623px;}
+.entry iframe{width:100%;max-width:600px;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}
 .aligncenter,#content img.aligncenter{clear:both;display:block;margin-left:auto;margin-right:auto;margin-bottom:7px;}
@@ -290,5 +291,3 @@ ol.commentlist li.even{background:#fff;}
 #related-posts h2{font-size:16px;font-weight:700;color:#b22d2d;font-family:Georgia, Helvetica, sans-serif;letter-spacing: -1px;margin-bottom:.75em;margin-top:10px;padding-top:5px;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#eef9fd;}
-
-.entry iframe{width:100%;max-width:600px;}

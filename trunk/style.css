@@ -291,7 +291,4 @@ ol.commentlist li.even{background:#fff;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#eef9fd;}
 
-iframe[Attributes Style] {
-width:100%;
-max-width:600px;
-}
+iframe{width:100%;max-width:600px;}

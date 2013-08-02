@@ -292,10 +292,6 @@ ol.commentlist li.even{background:#fff;}
 #related-posts a:hover{color:#000;background-color:#eef9fd;}
 
 iframe[Attributes Style] {
-border-top-width: 0px;
-border-right-width: 0px;
-border-bottom-width: 0px;
-border-left-width: 0px;
-width: 638px;
-height: 360px;
+width:100%;
+max-width:600px;
 }

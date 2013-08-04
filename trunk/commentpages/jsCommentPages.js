@@ -8,13 +8,10 @@ var jsCommentPages = function(){
 					.addClass("js-inactive-tab");
 				switch ($tab.attr("id")){
 					case "blogger-comments": 
-						$tab.prepend("<img src='http://lh6.googleusercontent.com/-_InM8Yxvqlg/Tg03QmGCkDI/AAAAAAAAAd8/Ozlnv5wP_C8/s800/blogger-white-B.png'>");
-						break;
-					case "twitter-comments":
-						$tab.prepend("<img src='http://lh6.googleusercontent.com/-7o7PRftYZaA/Tg0194rd1KI/AAAAAAAAAd4/0FEbtbBl760/s800/white-twitter-bird.png'>");
+						$tab.prepend("<img src='http://4.bp.blogspot.com/-D3CLTtnh96M/Uf6ElWGbhQI/AAAAAAAAVaU/Zd8cBjxouSo/s1600/blogger-icon.png'>");
 						break;
 					case "fb-comments":
-						$tab.prepend("<img src='http://static.ak.fbcdn.net/rsrc.php/v1/yH/r/eIpbnVKI9lR.png'>");
+						$tab.prepend("<img src='http://3.bp.blogspot.com/-RBYDycGwaJQ/Uf6ElhJ5MKI/AAAAAAAAVaY/lQ5PTdjsf0s/s1600/facebook-icon.png'>");
 						break;
 				}
 				$tab = null;

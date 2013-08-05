@@ -294,6 +294,3 @@ ol.commentlist li.even{background:#fff}
 #related-posts a{color:#000}
 #related-posts a:hover{color:#000; background-color:#eef9fd}
 .comments {margin-top: 0px!important;}
-
-#comments-block .comment-footer{border-bottom:1px solid #ddd;}
-.comment-timestamp{font-style:italic;font-size:9px;}

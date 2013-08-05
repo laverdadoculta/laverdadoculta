@@ -303,10 +303,8 @@ table.tr-caption-container { /* esta es la tabla */
   padding: 0;
 }
 td.tr-caption { /* esta es la leyenda */
-    background-color: #334455;
-    border-top: 1px solid #556677;
-    color: #DDEEFF;
-    font-family: Georgia;
-    font-size: 20px;
-    padding: 5px 10px;
+ background:rgba(0, 0, 0, 0.4);
+ display:block;
+ padding:3px;
+ text-shadow:0 0 15px white;
 }

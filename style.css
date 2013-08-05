@@ -293,3 +293,20 @@ ol.commentlist li.even{background:#fff}
 #related-posts h2{font-size:16px; font-weight:700; color:#b22d2d; font-family:Georgia,Helvetica,sans-serif; letter-spacing:-1px; margin-bottom:.75em; margin-top:10px; padding-top:5px}
 #related-posts a{color:#000}
 #related-posts a:hover{color:#000; background-color:#eef9fd}
+
+table.tr-caption-container { /* esta es la tabla */
+  -moz-box-shadow: 0 0 30px #ABC;
+  -webkit-box-shadow: 0 0 30px #ABC;
+  box-shadow: 0 0 30px #ABC;
+  border: 2px solid #567;
+  margin: 0 auto;
+  padding: 0;
+}
+td.tr-caption { /* esta es la leyenda */
+    background-color: #334455;
+    border-top: 1px solid #556677;
+    color: #DDEEFF;
+    font-family: Georgia;
+    font-size: 20px;
+    padding: 5px 10px;
+}

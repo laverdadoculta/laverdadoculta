@@ -294,36 +294,3 @@ ol.commentlist li.even{background:#fff}
 #related-posts a{color:#000}
 #related-posts a:hover{color:#000; background-color:#eef9fd}
 .comments {margin-top: 0px!important;}
-
-#comments{overflow:hidden}
-#comments h4{display:inline;padding:10px;line-height:40px}
-#comments h4,.comments .comment-header,.comments .comment-thread.inline-thread .comment{position:relative}
-#comments h4,.comments .continue a{background:#1e05d8/*clolor 1 a cambiar*/}
-#comments h4,.comments .user a,.comments .continue a{font-size:16px}
-#comments h4,.comments .continue a{font-weight:normal;color:#fff}
-#comments h4:after{content:"";position:absolute;bottom:-10px;left:10px;border-top:10px solid #1e05d8;/*clolor 2 a cambiar*/border-right:20px solid transparent;width:0;height:0;line-height:0}
-#comments .avatar-image-container img{border:0}
-.comment-thread{color:#111}
-.comment-thread a{color:#777}
-.comment-thread ol{margin:0 0 20px}
-.comment-thread .comment-content a,.comments .user a,.comments .comment-thread.inline-thread .user a{color:#1e05d8/*clolor 3 a cambiar*/}
-.comments .avatar-image-container,.comments .avatar-image-container img{width:48px;max-width:48px;height:48px;max-height:48px}
-.comments .comment-block,.comments .comments-content .comment-replies,.comments .comment-replybox-single{margin-left:60px}
-.comments .comment-block,.comments .comment-thread.inline-thread .comment{border:1px solid #ddd;background:#f9f9f9;padding:10px}
-.comments .comments-content .comment{margin:15px 0 0;padding:0;width:100%;line-height:1em}
-.comments .comments-content .icon.blog-author{position:absolute;top:-12px;right:-12px;margin:0;background-image: url(http://1.bp.blogspot.com/-tpZVPArD4o8/UVpPztmtTdI/AAAAAAAAAh8/Y8xmICUHa44/s1600/picresized_1338990142_comment-author-blue.gif);width:36px;height:36px}
-.comments .comments-content .inline-thread{padding:0 0 0 20px}
-.comments .comments-content .comment-replies{margin-top:0}
-.comments .comment-content{padding:5px 0;line-height:1.4em}
-.comments .comment-thread.inline-thread{border-left:1px solid #ddd;background:transparent}
-.comments .comment-thread.inline-thread .comment{width:auto}
-.comments .comment-thread.inline-thread .comment:after{content:"";position:absolute;top:10px;left:-20px;border-top:1px solid #ddd;width:10px;height:0px}
-.comments .comment-thread.inline-thread .comment .comment-block{border:0;background:transparent;padding:0}
-.comments .comment-thread.inline-thread .comment-block{margin-left:48px}
-.comments .comment-thread.inline-thread .user a{font-size:13px}
-.comments .comment-thread.inline-thread .avatar-image-container,.comments .comment-thread.inline-thread .avatar-image-container img{width:36px;max-width:36px;height:36px;max-height:36px}
-.comments .continue{border-top:0;width:100%}
-.comments .continue a{padding:10px 0;text-align:center}
-.comment .continue{display:none}
-#comment-editor{width:103%!important}
-.comment-form{width:100%;max-width:100%}

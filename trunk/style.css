@@ -294,11 +294,6 @@ ol.commentlist li.even{background:#fff}
 #related-posts a{color:#000}
 #related-posts a:hover{color:#000; background-color:#eef9fd}
 
-table.tr-caption-container { /* esta es la tabla */
- background:rgba(0, 0, 0, 0.4);
- display:block;
- padding:3px;
- text-shadow:0 0 15px white;
 td.tr-caption { /* esta es la leyenda */
  line-height:normal;
  font-size:11px;

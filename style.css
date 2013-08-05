@@ -296,9 +296,9 @@ ol.commentlist li.even{background:#fff}
 .comments {margin-top: 0px!important;}
 
 #comments-block .comment-footer {
-border-bottom:1px solid #240B3B; /* Borde de los comentarios */
+border-bottom:1px solid #ddd;
 }
-.comment-timestamp { /* Fecha de los comentarios */
+.comment-timestamp {
 font-style:italic;
 font-size:9px;
 }

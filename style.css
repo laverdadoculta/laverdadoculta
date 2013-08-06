@@ -298,14 +298,14 @@ ol.commentlist li.even{background:#fff}
 #comments{overflow:hidden;}
 #comments h4{display:inline;line-height:40px;padding:10px;}
 #comments h4,.comments .comment-header,.comments .comment-thread.inline-thread .comment{position:relative;}
-#comments h4,.comments .continue a{background:#58ACFA;font-weight:400;color:#fff;}
+#comments h4,.comments .continue a{background:#069;font-weight:400;color:#fff;}
 #comments h4,.comments .user a,.comments .continue a{font-size:16px;}
-#comments h4:after{content:"";position:absolute;bottom:-10px;left:10px;border-top:10px solid #58ACFA;border-right:20px solid transparent;width:0;height:0;line-height:0;}
+#comments h4:after{content:"";position:absolute;bottom:-10px;left:10px;border-top:10px solid #069;border-right:20px solid transparent;width:0;height:0;line-height:0;}
 #comments .avatar-image-container img{border:0;}
 .comment-thread{color:#111;}
 .comment-thread a{color:#777;}
 .comment-thread ol{margin:0 0 20px;}
-.comment-thread .comment-content a,.comments .user a,.comments .comment-thread.inline-thread .user a{color:#58ACFA;}
+.comment-thread .comment-content a,.comments .user a,.comments .comment-thread.inline-thread .user a{color:#069;}
 .comments .avatar-image-container,.comments .avatar-image-container img{width:48px;max-width:48px;height:48px;max-height:48px;}
 .comments .comment-block,.comments .comments-content .comment-replies,.comments .comment-replybox-single{margin-left:60px;}
 .comments .comment-block,.comments .comment-thread.inline-thread .comment{border:1px solid #ddd;background:#f9f9f9;padding:10px;}
@@ -326,4 +326,4 @@ ol.commentlist li.even{background:#fff}
 .comment .continue{display:none;}
 #comment-editor{width:103%!important;}
 .comment-form{width:100%;max-width:100%;}
-.avatar-image-container{border:3px solid #58ACFA!important;}
+.avatar-image-container{border:3px solid #069!important;}

@@ -325,5 +325,5 @@ ol.commentlist li.even{background:#fff}
 .comments .continue a{text-align:center;padding:10px 0;}
 .comment .continue{display:none;}
 #comment-editor{width:103%!important;}
-.comment-form{width:100%;max-width:100%!important;}
+.comment-form{width:95%;max-width:100%!important;}
 .avatar-image-container{border:3px solid #069!important;}

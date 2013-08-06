@@ -310,7 +310,7 @@ ol.commentlist li.even{background:#fff}
 .comments .comment-block,.comments .comments-content .comment-replies,.comments .comment-replybox-single{margin-left:60px;}
 .comments .comment-block,.comments .comment-thread.inline-thread .comment{border:1px solid #ddd;background:#f9f9f9;padding:10px;}
 .comments .comments-content .comment{width:100%;line-height:1em;margin:15px 0 0;padding:0;}
-.comments .comments-content .icon.blog-author{position:absolute;top:-12px;right:-12px;background-image:url(http://4.bp.blogspot.com/-awl7HMjMgh4/T89YtINejTI/AAAAAAAAGmQ/XxcTVLKUAtI/s320/picresized_1338990142_comment-author-blue.gif);width:36px;height:36px;margin:0;!important}
+.comments .comments-content .icon.blog-author{position:absolute;top:-12px;right:-12px;background-image:url(http://4.bp.blogspot.com/-awl7HMjMgh4/T89YtINejTI/AAAAAAAAGmQ/XxcTVLKUAtI/s320/picresized_1338990142_comment-author-blue.gif);width:36px;height:36px;margin:0;}
 .comments .comments-content .inline-thread{padding:0 0 0 20px;}
 .comments .comments-content .comment-replies{margin-top:0;}
 .comments .comment-content{line-height:1.4em;padding:5px 0;}

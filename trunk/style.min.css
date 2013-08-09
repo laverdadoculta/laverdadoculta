@@ -119,7 +119,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #container{float:left;width:645px;}
 #featured{display:block;margin-bottom:15px;}
 #featured_left{width:405px;float:left;}
-#featured_right{width:205px;float:right;text-align:left;padding:10px;}
+#featured_right{width:205px;float:right;text-align:left;padding:10px;background:#f2f2f2;}
 #featured_right p{margin:7px 0 4px;}
 .featured_right{font-size:15px;font-weight:700;line-height:1.1em;}
 #mediabar{position:relative;width:595px;height:210px;overflow:hidden;padding-left:25px;padding-right:25px;border-top:2px solid #ddd;border-bottom:2px solid #ddd;margin-bottom:15px;}

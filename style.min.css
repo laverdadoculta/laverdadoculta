@@ -107,7 +107,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .subnav li ul li a{color:#333;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
 .subnav li.date{float:right;padding:7px 10px;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
-#teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;}
+#teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;background:#ccc;}
 #teaser .last{border-right:none;width:221px;}
 #teaser .col_teaser:hover{background:#b22d2d;}
 #teaser .col_teaser:hover a{color:#fff;text-decoration:none;}

@@ -275,6 +275,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{background:none repeat scroll 0 0 #FFF;min-height:24px;float:left!important;}
 #related-posts{text-transform:none;height:100%;min-height:100%;padding-top:5px;padding-left:5px;}
-#related-posts h2{font-size:16px;font-weight:700;color:#b22d2d;font-family:Georgia,Helvetica,sans-serif;letter-spacing:-1px;margin-bottom:.75em;margin-top:10px;padding-top:5px;}
+#related-posts h2{color: #b22d2d;font: bold 16px Georgia,tahoma,sans-serif;letter-spacing: -1px;border-bottom: none;margin: 0 0 5px;padding: 0;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#eef9fd;}

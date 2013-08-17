@@ -47,7 +47,7 @@ h6{font-size:12px;}
 .share-separator{clear:both;height:10px;}
 .gab_share_widget a img{display:block;float:left;margin:2px 4px 0 0;}
 .gab_share_widget a:hover img{margin:0 4px 0 0;}
-.entry img{max-width:623px;}
+.entry img{display: inline;max-width:623px;}
 .entry iframe{width:100%;max-width:623px;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}
@@ -279,11 +279,3 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #related-posts h2{color: #b22d2d;font: bold 16px Georgia,tahoma,sans-serif;letter-spacing: -1px;border-bottom: none;margin: 0 0 5px;padding: 0;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#eef9fd;}
-
-.entry img {
-max-width: 623px;
-display: inline;
-float: left;
-margin-right: 15px;
-margin-top: 5px;
-}

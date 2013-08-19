@@ -1,1 +1,62 @@
-function stripHtmlTags(e,t){return e.replace(/<.*?>/ig,"").split(/\s+/).slice(0,t-1).join(" ")}function getSummaryLikeWP(e){return document.getElementById(e).innerHTML.split(/<!--\s*more\s*-->/)[0]}function getSummaryImproved(e,t){var n=/<.*?>/gi;var r=/<br.*?>/gi;var i=/(<\/{1}p>)|(<\/{1}div>)/gi;var s=/(<style.*?\/{1}style>)|(<script.*?\/{1}script>)|(<table.*?\/{1}table>)|(<form.*?\/{1}form>)|(<code.*?\/{1}code>)|(<pre.*?\/{1}pre>)/gi;e=e.replace(s,"");e=e.replace(i,"<br /> ").split(r);for(var o=0;o<e.length;o++){e[o]=e[o].replace(n,"")}var u=new Array;for(var o in e){if(/[a-zA-Z0-9]/.test(e[o]))u.push(e[o])}var a="";var f="";for(var o=0;o<indent;o++){f+=" "}if(u.join("<br/>").split(" ").length<t-1){a=u.join(f+" <br/>")}else{var o=0;while(a.split(" ").length<t){a+=f+" "+u[o]+"<br/>";o++}}return a}function createSummaryAndThumb(e,t,n,r,i){var s=n;var t=t;var r=r;var i=i;var o=document.getElementById(e);var u=o.innerHTML;if(/<!--\s*more\s*-->/.test(u)){o.innerHTML=getSummaryLikeWP(e);o.style.display="block"}else{var a="";var f=o.getElementsByTagName("img");var l=summary;if(f.length>=1){a='<a href="'+s+'"><img width="100" height="78" class="alignleft" src="'+f[0].src+'"></a>'}var c=a+'<h3 class="posttitle"><a href="'+s+'">'+t+"</a></h3><p>"+stripHtmlTags(u,summary)+"...</p>";o.innerHTML=c;o.style.display="block"}}var classicMode=false;var summary=30;var indent=3
+var relatedTitles = new Array();
+var relatedTitlesNum = 0;
+var relatedUrls = new Array();
+
+function related_results_labels(json) {
+for (var i = 0; i < json.feed.entry.length; i++) {
+var entry = json.feed.entry[i];
+relatedTitles[relatedTitlesNum] = entry.title.$t;
+for (var k = 0; k < entry.link.length; k++) {
+if (entry.link[k].rel == 'alternate') {
+relatedUrls[relatedTitlesNum] = entry.link[k].href;
+relatedTitlesNum++;
+break;
+}
+}
+}
+}
+
+function removeRelatedDuplicates() {
+var tmp = new Array(0);
+var tmp2 = new Array(0);
+for(var i = 0; i < relatedUrls.length; i++) {
+if(!contains(tmp, relatedUrls[i])) {
+tmp.length += 1;
+tmp[tmp.length - 1] = relatedUrls[i];
+tmp2.length += 1;
+tmp2[tmp2.length - 1] = relatedTitles[i];
+}
+}
+relatedTitles = tmp2;
+relatedUrls = tmp;
+}
+
+function contains(a, e) {
+for(var j = 0; j < a.length; j++) if (a[j]==e) return true;
+return false;
+}
+
+function printRelatedLabels() {
+var cuantosPosts = 0;
+var r = Math.floor((relatedTitles.length - 1) * Math.random());
+var i = 0;
+var dirURL = document.URL;
+document.write('<ul>');
+while (i < relatedTitles.length && i < 20) {
+if (relatedUrls[r] != dirURL) {
+document.write('<li><a href="' + relatedUrls[r] + '" title="Post relacionado: '
++ relatedTitles[r] + '">' + relatedTitles[r] + '</a></li>');
+}
+if (r < relatedTitles.length - 1) {
+r++;
+} else {
+r = 0;
+}
+i++;
+cuantosPosts++;
+if (cuantosPosts == 5) {
+break;
+}
+}
+document.write('</ul>');
+}

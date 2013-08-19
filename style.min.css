@@ -138,7 +138,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #tabcontent_title li{float:left;font-size:12px;text-transform:uppercase;padding:0 2px 0 0;}
 #tabcontent_title li a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
 #tabcontent_title li a.selected{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:7px 10px 0 9px;}
-.tabcontent_body{width:625px;border:1px solid #ddd;border-top:0;padding:9px 9px 7px;background:#f2f2f2;}
+.tabcontent_body{width:625px;border:1px solid #ddd;border-top:0;padding:9px 9px 7px;}
 .tabcontent_body .text{width:623px;}
 .tabcontent_body ul{color:#999;margin:0 0 0 20px;}
 .tabcontent_body ul li{list-style:decimal;font-size:12px;line-height:1.5em;padding:3px 0;}

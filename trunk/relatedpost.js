@@ -54,7 +54,7 @@ r = 0;
 }
 i++;
 cuantosPosts++;
-if (cuantosPosts == 5) {
+if (cuantosPosts == 6) {
 break;
 }
 }

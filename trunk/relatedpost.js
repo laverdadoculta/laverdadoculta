@@ -44,7 +44,7 @@ var dirURL = document.URL;
 document.write('<ul>');
 while (i < relatedTitles.length && i < 20) {
 if (relatedUrls[r] != dirURL) {
-document.write('<li><a href="' + relatedUrls[r] + '" title="Post relacionado: '
+document.write('<li><a href="' + relatedUrls[r] + '" title="Noticia relacionada: '
 + relatedTitles[r] + '">' + relatedTitles[r] + '</a></li>');
 }
 if (r < relatedTitles.length - 1) {
@@ -54,7 +54,7 @@ r = 0;
 }
 i++;
 cuantosPosts++;
-if (cuantosPosts == 5) {
+if (cuantosPosts == 6) {
 break;
 }
 }

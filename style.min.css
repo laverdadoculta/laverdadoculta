@@ -276,7 +276,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .article-metadata .article-links{height:auto;left:0;position:absolute;text-align:left;top:0;width:500px;}
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
-.social-sharing .social-sharing-widgets{background:none repeat scroll 0 0 #FFF;min-height:24px;float:left!important;}
+.social-sharing .social-sharing-widgets{float:left;padding-left:17px;margin-top:8px;}
 .social-sharing div.social-sharing-widgets .twitter{float:left;margin-right:12px;width:60px;}
 .social-sharing div.social-sharing-widgets .facebook{float:left;margin-right:12px;}
 .social-sharing div.social-sharing-widgets .google{max-width:70px!important;float:left;margin-right:12px;}

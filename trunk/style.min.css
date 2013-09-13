@@ -269,7 +269,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer .widget ul a,#footer .widget ul a:hover{font-size:12px;color:#ccc!important;}
 .entry h3,.entry h5,.entry h6{font-family:arial,verdana,sans-serif;}
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
-.article-metadata{border:medium none;position:relative;text-align:right;font-size:.9em;width:100%;margin:0 0 15px;padding:0 0 12px;}
+.article-metadata{border:medium none;position:relative;text-align:right;font-size:.9em;width:100%;margin: 15px 0;}
 .article-metadata .article-comments{float:none;}
 .article-comments{background:url(http://img.weblogssl.com/g/xataka4/common/icons-common-48.png?v=17) no-repeat scroll 100% -1600px #0C8ACF;display:inline-block;float:right;font-weight:700;line-height:1.7;padding:0 24px 0 0;}
 .article-comments a{background-color:#FFF;text-transform:capitalize;padding:6px 3px;}

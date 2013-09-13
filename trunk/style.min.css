@@ -279,3 +279,5 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .social-sharing .social-sharing-widgets{background:none repeat scroll 0 0 #FFF;min-height:24px;float:left!important;}
 .post-relacionados ul{padding-left:5px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;}
 .post-relacionados ul li{font-size:12px;font-weight: bold;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;line-height:17px;margin:0 0 0 20px;clear: both;}
+
+.share-google,.share-taringa,.share-twitter,.share-facebook {float:left;width:110px;height:30px;margin:0 0 0 10px;padding:5px 0 0 0}

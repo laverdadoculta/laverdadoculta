@@ -47,7 +47,7 @@ h6{font-size:12px;}
 .share-separator{clear:both;height:10px;}
 .gab_share_widget a img{display:block;float:left;margin:2px 4px 0 0;}
 .gab_share_widget a:hover img{margin:0 4px 0 0;}
-.entry img{max-width:623px;}
+.entry img{max-width:623px;padding: 1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .entry iframe{width:100%;max-width:623px;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}

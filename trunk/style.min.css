@@ -207,7 +207,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry blockquote:before,.entry blockquote:after{font-size:35px;position:absolute;}
 .entry blockquote:before{content:"\201c";left:-1px;top:22px;}
 .entry blockquote:after{content:"\201d";bottom:-7px;margin-left:3px;}
-.entry h1.entry_title{display:block;padding-bottom:5px;font:normal 32px/41px Georgia,Helvetica,sans-serif;letter-spacing:-1px;line-height:1.2em;color:#222;margin:0;}
+.entry h1.entry_title{display:block;padding-bottom:5px;font:normal 30px/41px Georgia,Helvetica,sans-serif;letter-spacing:-1px;line-height:1.2em;color:#222;margin:0;}
 .entry h1,.entry h2,.entry h3,.entry h4,.entry h5,.entry h6{margin-bottom:15px;margin-top:10px;}
 .entry h1{font-family:Georgia,Helvetica,sans-serif;}
 .entry h2{font-family:Georgia,Helvetica,sans-serif;}
@@ -281,4 +281,3 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
 .post-relacionados ul{padding-left:5px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;}
 .post-relacionados ul li{font-size:12px;font-weight: bold;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;line-height:17px;margin:0 0 0 20px;clear: both;}
-.post-body{font: normal 14px/20px Arial,Helvetica,sans-serif;}

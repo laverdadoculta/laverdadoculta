@@ -222,8 +222,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .attachment-full{display:block;border:1px solid #bbb;padding:2px;}
 .attachment-nav{display:block;text-align:center;font-size:12px;color:#ccc;margin:15px 0;}
 .single_ad{border:1px solid #ddd;margin-bottom:10px;text-align:center;padding:10px;}
-#entryMeta{font-size:12px;border:1px solid #ddd;background:#f6f7f7;margin-bottom:10px;line-height:1.3em;padding:7px;}
-#entryMeta img{float:left;border:1px solid #bbb;margin-top:1px;margin-right:5px;padding:1px;}
+#entryMeta{font-size:12px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;margin: 20px 0;}
 #entryMeta a{color:#8f8f8f;text-decoration:none;}
 .author_meta{font-size:15px;line-height:17px;border:1px solid #ddd;background:#f6f7f7;margin-bottom:15px;padding:7px;}
 .author_meta img{float:left;border:1px solid #bbb;margin-top:1px;margin-right:10px;padding:1px;}

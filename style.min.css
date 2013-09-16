@@ -222,7 +222,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .single_ad{border:1px solid #ddd;margin-bottom:10px;text-align:center;padding:10px;}
 #entryMeta{font-size:12px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;margin: 20px 0;}
 #entryMeta a{color:#8f8f8f;text-decoration:none;}
-#entryMeta .tags-caption span.tag{display: block;float: left;margin: 0px 7px 0 0;width: 16px;height: 16px;background: url("http://4.bp.blogspot.com/-pJvzFgV7u_0/UjdZst8ND0I/AAAAAAAAWj4/SLQbMAbcfJE/s1600/tags.png") no-repeat transparent;}
+#entryMeta .tags-caption span.tag{display: block;float: left;margin: 2px 7px 0 0;width: 16px;height: 16px;background: url("http://4.bp.blogspot.com/-pJvzFgV7u_0/UjdZst8ND0I/AAAAAAAAWj4/SLQbMAbcfJE/s1600/tags.png") no-repeat transparent;}
 .author_meta{font-size:15px;line-height:17px;border:1px solid #ddd;background:#f6f7f7;margin-bottom:15px;padding:7px;}
 .author_meta img{float:left;border:1px solid #bbb;margin-top:1px;margin-right:10px;padding:1px;}
 .author_meta a{color:#8f8f8f;text-decoration:underline;}

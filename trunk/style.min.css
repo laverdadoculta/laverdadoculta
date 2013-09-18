@@ -200,8 +200,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{min-height:24px;float:left!important;}
-.share-twitter,.share-facebook,.share-addthis{float:left;margin: 0 10px 0 0;}
-.share-google{float:left;width:90px;margin: 0 10px 0 0;}
+.share-google,.share-twitter,.share-facebook,.share-addthis{float:left}
+.share-addthis{left: 345px;}
 .postCategory{padding-left:15px;background:url(http://2.bp.blogspot.com/-ufkUoySMd58/TrOsGsVqB-I/AAAAAAAAAKE/x3S-tihaBjI/folder.gif) no-repeat left center;}
 .entry blockquote{background:url(http://3.bp.blogspot.com/-J4kuYtXXjsE/UWYLUrAk4dI/AAAAAAAAS9k/HW0fW1Toikg/s1600/blockquote%5B1%5D.png) no-repeat scroll -130px -15px transparent;color:#222;float:right;font-size:12px;font-style:normal;font-weight:700;line-height:20px;width:150px;position:relative;margin:5px 10px 10px 0;padding:15px 15px 0 20px;}
 .entry blockquote:before,.entry blockquote:after{font-size:35px;position:absolute;}

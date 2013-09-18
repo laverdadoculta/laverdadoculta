@@ -201,7 +201,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{min-height:24px;float:left!important;}
 #share-button{list-style-type:none;list-style-position:inside;padding:0;}
-#share-button li{border:0 none;float:none;position:absolute;top:5px;}
+#share-button li{border:0 none;float:none;position:absolute;}
 #share-button li.twitter{left:0;}
 #share-button li.gplus{left:120px;}
 #share-button li.facebook{left:210px;}

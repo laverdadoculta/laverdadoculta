@@ -216,6 +216,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry h1{font-family:Georgia,Helvetica,sans-serif;}
 .entry h2{font-family:Georgia,Helvetica,sans-serif;}
 .entry h4{font-family:Georgia,Helvetica,sans-serif;}
+.entry ul li{list-style-type: disc;}
 .entry ul ul li{list-style-type:circle;}
 .entry ol li{list-style-type:decimal;}
 .entry ol li ol li{list-style-type:lower-alpha;}

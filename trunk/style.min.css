@@ -200,7 +200,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{min-height:24px;float:left!important;}
-#share-button{list-style-type:noneleft!important;list-style-position:insideleft!important;padding:0;}
+#share-button{list-style-type:noneleft;list-style-position:insideleft;padding:0;}
 #share-button li{border:0 none;float:none;position:absolute;top:5px;}
 #share-button li.twitter{left:0;}
 #share-button li.gplus{left:120px;}

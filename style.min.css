@@ -283,3 +283,4 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .post-relacionados ul li{font-size:12px;font-weight: bold;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;line-height:17px;margin:0 0 0 20px;clear: both;}
 .page-service-panel{height: 25px;font-size: 11px;line-height: 15px;color: gray;border: 0;margin-bottom: 0;}
 .breadcrumbs{float: left;padding-top: 5px;}
+.breadcrumbs a{color: #808080;text-decoration: none;}

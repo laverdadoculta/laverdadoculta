@@ -284,3 +284,4 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .page-service-panel{height: 25px;font-size: 11px;line-height: 15px;color: gray;border: 0;margin-bottom: 0;}
 .breadcrumbs{float: left;padding-top: 5px;}
 .breadcrumbs a{color: #808080;text-decoration: none;}
+.breadcrumbs a:hover {color: #626262;}

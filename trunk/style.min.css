@@ -235,7 +235,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .numbered-pagination a.pagi-next,.numbered-pagination a.pagi-prev,.numbered-pagination a.pagi-first,.numbered-pagination a.pagi-last{border:solid 1px #ccc;color:#666;}
 .numbered-pagination .current{color:#444;background:#ddd;display:block;float:left;padding:1px 7px;}
 .numbered-pagination a:hover{border:solid 1px #777;text-decoration:none;}
-.breadcrumbs{display:block;font-size:11px;color:#666;margin-bottom:12px;border-bottom:1px dotted #666;}
+.breadcrumbs{display:block;font-size:11px;color:#666;}
 .archiveTitle{color:#069;font:normal 22px/22px "Times New Roman",Times,serif!important;margin:0 0 10px!important;}
 .entryDate{background:url(http://3.bp.blogspot.com/-JA7hIxhAkwA/TrOr1kCLJ5I/AAAAAAAAAJM/qrvfZaKNZaI/date.gif) no-repeat left center;padding-left:18px;float:left;width:auto;}
 .entryComment{background:url(http://3.bp.blogspot.com/-PMRK-MeHsbE/TrOr0WzEfQI/AAAAAAAAAI0/s713sN-3geQ/comment.gif) no-repeat left center;padding-left:18px;float:right;width:auto;}

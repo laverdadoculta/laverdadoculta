@@ -100,7 +100,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .mainnav li ul li{float:none;border-left:none;margin:0;}
 .mainnav li ul li a{color:#333;background:#fff;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
 .mainnav .sf-sub-indicator{background:url(http://4.bp.blogspot.com/-tuSbFOytOds/TrOriScF-II/AAAAAAAAAHc/Hlxmm72DmfY/arrow-superfish-down.png) no-repeat;position:absolute;display:block;right:7px;top:14px;width:10px;height:10px;text-indent:-999em;overflow:hidden;}
-#submenu{width:960px;height:32px;background:#e8e8e8;}
+#submenu{width:960px;height:32px;background:#e8e8e8;overflow: hidden;}
 .subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}
 .subnav li ul li{float:none;border-right:none;background:#fff;margin:0;}
 .subnav li ul li a{color:#333;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}

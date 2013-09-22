@@ -105,7 +105,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .subnav li ul li{float:none;border-right:none;background:#fff;margin:0;}
 .subnav li ul li a{color:#333;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
 .subnav li.social-follow{color:#333;display:block;padding:6px 10px;}
-.subnav li.date{float:right;padding:7px 10px;}
+.subnav li.date{float:right;padding:9px 10px;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
 #teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;}
 #teaser .last{border-right:none;width:221px;}
@@ -281,4 +281,3 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
 .post-relacionados ul{padding-left:5px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;}
 .post-relacionados ul li{font-size:12px;font-weight: bold;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;line-height:17px;margin:0 0 0 20px;clear: both;}
-.page-service-panel{height: 25px;font-size: 11px;line-height: 15px;color: gray;border: 0;margin-bottom: 0;}

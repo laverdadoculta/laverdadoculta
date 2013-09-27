@@ -277,7 +277,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .morelinks{height: 25px;border: 0;margin-bottom: 0;}
 .tophome{float: left;}
 .printlink{float: right;}
-.icon-print{background: url(http://3.bp.blogspot.com/-6TBgf6oPV8I/UkXTDpqLAaI/AAAAAAAAW_Q/m_SpMowAkrY/s1600/print%5B1%5D.gif) left no-repeat; padding-left: 20px;}
+.printlink .icon-print{background: url(http://3.bp.blogspot.com/-6TBgf6oPV8I/UkXTDpqLAaI/AAAAAAAAW_Q/m_SpMowAkrY/s1600/print%5B1%5D.gif) left no-repeat; padding-left: 20px;}
 @media print {
 .feed-links,#blog-pager,#masthead,.breadcrumbs,#banner,#mainmenu,#submenu,.article-metadata,#sidebar,.comments,.comments-page,#fb-comments-page,#entryMeta,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer{display:none;}
 .border_right_15{border-right:0;}

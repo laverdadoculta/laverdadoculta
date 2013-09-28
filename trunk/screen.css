@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #wrapper .postmeta{clear:both;display:block;font-size:11px;text-align:right;padding-top:3px;}
 .posttitle{font-size:20px;line-height:22px;margin:0 0 6px;}
 #header{max-width:960px; min-width:320px;margin:0 auto 10px;}
-#masthead{width:954px;background:#f5f5f5;padding:0 4px 0 2px;}
+#masthead{max-width:954px; min-width:320px;background:#f5f5f5;padding:0 4px 0 2px;}
 .mastheadnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;padding-left:0;}
 .mastheadnav li a{color:#069;display:block;padding:6px 10px 7px;}
 #search{width:auto;float:right;height:20px;background:#fff;margin:3px 3px 0 0;}
@@ -175,7 +175,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #foo_widget2{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;}
 #foo_widget3{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;display:inline;}
 #foo_widget4{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;display:inline;}
-#footer_data{color:#797979;font-size:11px;display:block;width:960px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
+#footer_data{color:#797979;font-size:11px;display:block;max-width:960px; min-width:320px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
 .footer_hr{background:none repeat scroll 0 0 #393835;border:0 none;clear:both;color:#393835;height:1px;margin-bottom:8px;padding-top:0;}
 #footer_data a{color:#cdcdcd;}
 #footer-left-side{width:50%;float:left;}

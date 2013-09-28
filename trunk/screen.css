@@ -109,7 +109,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #teaser .active .posttitle a,#teaser .active .posttitle a:hover{color:#fff;}
 #teaser .titleCatName a{font-size:10px;background:#000;color:#fff;border-bottom:1px solid #999;display:inline-block;margin:0!important;padding:3px 5px;}
 #teaser .active .titleCatName a{background:#fff;color:#000;}
-#container{float:left;width:645px;}
+#container{float:left;width:67,1875%;}
 #featured{display:block;margin-bottom:15px;}
 #featured_left{width:405px;float:left;}
 #featured_right{width:205px;float:right;text-align:left;padding:10px;background:#f2f2f2;}
@@ -139,7 +139,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .tabright{float:right;width:305px;padding-left:10px;border-left:1px solid #ddd;}
 a.list{color:#333;display:block;margin-left:5px;background:url(http://1.bp.blogspot.com/-RXb1AE4M0hk/TrOta64MA7I/AAAAAAAAAKk/8pFO1M4JeSg/list_a.gif) no-repeat left 8px;padding:2px 0 2px 10px;}
 a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#000;}
-#sidebar{float:right;width:300px;display:inline;overflow:hidden;}
+#sidebar{float:right;width:31,25%;display:inline;overflow:hidden;}
 #sidebar .widget{margin-bottom:25px;}
 .PopularPosts .item-title{font-family:Georgia,Helvetica,sans-serif;font-size:14px;line-height:18px;}
 #w2b-mashable{width:292px;margin:auto;padding:0;}

@@ -289,7 +289,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .border_right_15{border-right:0;}
 .entry {border:0;}
 #main,#main-wrapper,#container{width:100%;}
-#sidebar{position:absolute; top:0; width:100%; float:none; }
+#sidebar{position:absolute;}
 .entry img{width:100%;}
 }
 

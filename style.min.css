@@ -284,7 +284,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container{width:100%;}
 }
 
-@media screen and (max-width: 800px) {
+@media only screen and (min-width: 768px) and (max-width: 991px) {
 .feed-links,#blog-pager,#masthead,#mainmenu,#sidebar,#entryMeta,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,#teaser{display:none;}
 .border_right_15{border-right:0;}
 .entry {border:0;}
@@ -292,7 +292,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry img{width:100%;height: auto;vertical-align: middle;}
 }
 
-@media screen and (max-width: 600px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
 .feed-links,#blog-pager,#masthead,#banner,#mainmenu,#submenu,.article-metadata,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.comments-tab img,#blogger-comments,#blogger-comments.js-inactive-tab,#fb-comments,#fb-comments.js-inactive-tab,.js-inactive-tab,#entryMeta,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright{display:none;}
 .border_right_15{border-right:0;}
 .entry {border:0;}

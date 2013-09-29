@@ -299,4 +299,5 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 #logo {margin: 0 auto;padding: 40px 0 10px;width: 56.25%;text-align: center;}
+#logo-bg img {width: auto;max-width: 346px;}
 }

@@ -85,8 +85,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
-#mainmenu{background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;width: 100%;position: relative;}
-#mainmenu li{display: inline;float: left;}  
+#mainmenu{background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;width: 100%;position: relative;}  
 .mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
 .mainnav li{float:left;position:relative;border-left:1px solid #555;display: inline;}
 .mainnav li a{color:#fff;display:block;padding:8px 15px;}

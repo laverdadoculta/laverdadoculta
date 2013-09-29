@@ -67,6 +67,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .widget a:hover,.widget a:active{color:#000;}
 #wrapper .featuredPost{padding-bottom:6px;border-bottom:1px dotted #666;margin-bottom:6px;}
 #wrapper .lastPost{border:none;margin-bottom:0;padding-bottom:0;}
+#wrapper .lastPost img{width:100%;}
 #wrapper .postmeta{clear:both;display:block;font-size:11px;text-align:right;padding-top:3px;}
 .posttitle{font-size:20px;line-height:22px;margin:0 0 6px;}
 #header{max-width:960px; min-width:320px;margin:0 auto 10px;}

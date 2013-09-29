@@ -171,10 +171,10 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer a:hover{color:#fff;text-decoration:none;}
 #footer .widget h2{margin-bottom:5px;font:bold 13px Georgia,tahoma,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
 #footer .widget .title a,#footer .widgettitle a:hover{color:#f6f7f7;}
-#foo_widget1{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;}
-#foo_widget2{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;}
-#foo_widget3{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;display:inline;}
-#foo_widget4{width:200px;float:left;margin:20px 10px 20px 25px;padding:0;display:inline;}
+#foo_widget1{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;}
+#foo_widget2{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;}
+#foo_widget3{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;display:inline;}
+#foo_widget4{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;display:inline;}
 #footer_data{color:#797979;font-size:11px;display:block;max-width:960px; min-width:320px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
 .footer_hr{background:none repeat scroll 0 0 #393835;border:0 none;clear:both;color:#393835;height:1px;margin-bottom:8px;padding-top:0;}
 #footer_data a{color:#cdcdcd;}

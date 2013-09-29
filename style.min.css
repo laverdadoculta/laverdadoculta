@@ -126,17 +126,17 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mediabar #next_button{position:absolute;right:0;top:0;width:25px;height:210px;background:url(http://2.bp.blogspot.com/-L6AaS9A6j7w/TrOtbwaVoyI/AAAAAAAAALA/miXTz_tPfn0/right.gif) no-repeat center center;z-index:100;cursor:pointer;}
 #primary_bottomleft{float:left;width:50.38759689922481%;}
 #primary_bottomright{display:block;width:46.51162790697674%;font:bold 12px/13px arial,verdana,sans-serif;float:right;overflow: hidden;}
-#tabcontent{width:645px;overflow:hidden;display:block;}
+#tabcontent{width:100%;overflow:hidden;display:block;}
 #tabcontent_title{width:100%;overflow:hidden;background:url(http://4.bp.blogspot.com/-bxFyy-bHmlo/TrOrlpNAWfI/AAAAAAAAAIM/0Ng7c80MxWE/bgr_tabs_title.gif) repeat-x bottom;}
 #tabcontent_title li{float:left;font-size:12px;text-transform:uppercase;padding:0 2px 0 0;}
 #tabcontent_title li a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
 #tabcontent_title li a.selected{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:7px 10px 0 9px;}
-.tabcontent_body{width:625px;border:1px solid #ddd;border-top:0;padding:9px 9px 7px;}
+.tabcontent_body{width:96.89922480620155%;border:1px solid #ddd;border-top:0;padding:96.89% 96.89% 1.08%;}
 .tabcontent_body .text{width:623px;}
 .tabcontent_body ul{color:#999;margin:0 0 0 20px;}
 .tabcontent_body ul li{list-style:decimal;font-size:12px;line-height:1.5em;padding:3px 0;}
-.tableft{float:left;width:300px;}
-.tabright{float:right;width:305px;padding-left:10px;border-left:1px solid #ddd;}
+.tableft{float:left;width:45.51%;}
+.tabright{float:right;width:47.28%;padding-left:1.55%;border-left:1px solid #ddd;}
 a.list{color:#333;display:block;margin-left:5px;background:url(http://1.bp.blogspot.com/-RXb1AE4M0hk/TrOta64MA7I/AAAAAAAAAKk/8pFO1M4JeSg/list_a.gif) no-repeat left 8px;padding:2px 0 2px 10px;}
 a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#000;}
 #sidebar{float:right;width:31.25%;display:inline;overflow:hidden;}

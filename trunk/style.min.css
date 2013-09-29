@@ -112,7 +112,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #container{float:left;width:67.1875%;}
 #featured{display:block;margin-bottom:15px;}
 #featured_left{width:62.7906976744186%;float:left;}
-#featured_right{width:31.78294573643411%;float:right;text-align:left;padding:10px;background:#f2f2f2;}
+#featured_right{width:31.78294573643411%;float:right;text-align:left;padding:1.550387596899225%;background:#f2f2f2;}
 #featured_right p{margin:7px 0 4px;}
 .featured_right{font-size:15px;font-weight:700;line-height:1.1em;}
 #mediabar{position:relative;width:92.24806201550388%;height:210px;overflow:hidden;padding-left:3.875968992248062%;padding-right:3.875968992248062%;border-top:2px solid #ddd;border-bottom:2px solid #ddd;margin-bottom:15px;}

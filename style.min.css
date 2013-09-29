@@ -85,10 +85,10 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
-#mainmenu{background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;width: 100%;position: relative;}  
+#mainmenu{max-width:960px; min-width:320px;background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;}
 .mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
-.mainnav li{float:left;position:relative;border-left:1px solid #555;display: inline;}
-.mainnav li a{color:#fff;display:inline-block;padding:8px 15px;width: 100px;}
+.mainnav li{float:left;position:relative;border-left:1px solid #555;}
+.mainnav li a{color:#fff;display:block;padding:8px 15px;}
 .mainnav li a:hover,.mainnav li.current_page_item a,.mainnav li.current-cat a,.mainnav li.current-menu-item a{color:#fff;background:#b22d2d;}
 .mainnav li ul li{float:none;border-left:none;margin:0;}
 .mainnav li ul li a{color:#333;background:#fff;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
@@ -189,7 +189,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .article-metadata .article-comments{float:none;}
 .article-comments{background:url(http://img.weblogssl.com/g/xataka4/common/icons-common-48.png?v=17) no-repeat scroll 100% -1600px #0C8ACF;display:inline-block;float:right;font-weight:700;line-height:1.7;padding:0 24px 0 0;}
 .article-comments a{background-color:#FFF;text-transform:capitalize;padding:6px 3px;}
-.article-metadata .article-links{height:auto;left:0;position:absolute;text-align:left;top:0;width:80.25%;}
+.article-metadata .article-links{height:auto;left:0;position:absolute;text-align:left;top:0;width:500px;}
 .article-metadata .social-sharing{margin:0;}
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{min-height:24px;float:left!important;}

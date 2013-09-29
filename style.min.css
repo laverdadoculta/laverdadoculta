@@ -301,24 +301,3 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #logo {margin: 0 auto;width: 56.25%;text-align: center;}
 #logo img {max-width: 100%;}
 }
-
-@media screen and (max-width: 900px) { 
-    #mainmenu {   
-        height: auto;  
-    }  
-    #mainmenu ul {  
-        width: 100%;  
-        display: block;  
-        height: auto;  
-    }  
-    #mainmenu li {  
-        width: 50%;  
-        float: left;  
-        position: relative;  
-    }   
-    #mainmenu a {  
-        text-align: left;  
-        width: 100%;  
-        text-indent: 25px;  
-    }  
-}

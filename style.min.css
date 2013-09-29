@@ -248,7 +248,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .comments .avatar-image-container,.comments .avatar-image-container img{-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;}
 #respond{overflow:hidden;position:relative;background:#f6f7f7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;margin:5px 0 0;padding:10px 15px 5px;}
 .fullwidth{width:960px!important;}
-.ftimg{max-width:405px;}
+.ftimg{width:100%;}
 .vcard img{width:29px;height:29px;float:left;margin-right:6px;}
 #blog-pager{font-weight:700;}
 .widget form,.widget fieldset,.entry ul ul,.entry ol ol{margin:0;}

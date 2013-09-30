@@ -280,7 +280,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .printlink{float: right;}
 
 @media (min-width:768px) and (max-width:979px){
-.feed-links,#blog-pager,#masthead,#mainmenu,#sidebar,#teaser{display:none;}
+.feed-links,#blog-pager,#mainmenu,#sidebar,#teaser{display:none;}
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}

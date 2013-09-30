@@ -285,7 +285,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-body{width: 712px;padding: 20px 28px 0;}
 .feed-links,#blog-pager,#masthead,#mainmenu,#sidebar,#teaser{display:none;}
 .border_right_15{border-right:0;}
 .entry {border:0;}

@@ -285,7 +285,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container{width:100%;}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
 .feed-links,#blog-pager,#masthead,#mainmenu,#sidebar,#teaser{display:none;}
 .border_right_15{border-right:0;}
 .entry {border:0;}

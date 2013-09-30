@@ -295,14 +295,14 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
-#logo {margin: 0 auto;width: 56.25%;text-align: center;}
-#logo img {max-width: 100%;}
+#logo{margin: 0 auto;width: 56.25%;text-align: center;}
+#logo img{max-width: 100%;}
 }
 
 @media (max-width:480px){
-body {padding-left: 5px;padding-right: 5px;background: #fff !important;}
-h1{font-size: 24px;}
-#logo img {max-width: 80%%;}
+body{padding-left: 5px;padding-right: 5px;background: #fff !important;}
+.entry h1.entry_title{font-size: 24px;}
+#logo img{max-width: 80%%;}
 }
 
 @media print {

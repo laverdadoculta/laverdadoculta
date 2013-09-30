@@ -285,6 +285,55 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
+.mainnav {
+	position: relative;
+	min-height: 40px;
+}	
+.mainnav ul {
+	width: 180px;
+	padding: 5px 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: solid 1px #aaa;
+	background: #fff url(images/icon-menu.png) no-repeat 10px 11px;
+	border-radius: 5px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+.mainnav li {
+	display: none; /* hide all <li> items */
+	margin: 0;
+}
+.mainnav .current {
+	display: block; /* show only current <li> item */
+}
+.mainnav a {
+	display: block;
+	padding: 5px 5px 5px 32px;
+	text-align: left;
+}
+.mainnav .current a {
+	background: none;
+	color: #666;
+}
+
+/* on nav hover */
+.mainnav ul:hover {
+	background-image: none;
+}
+.mainnav ul:hover li {
+	display: block;
+	margin: 0 0 5px;
+}
+.mainnav ul:hover .current {
+	background: url(images/icon-check.png) no-repeat 10px 7px;
+}
+
+/* center nav */
+.mainnav.center ul {
+	left: 50%;
+	margin-left: -90px;
+}
 }
 
 @media (max-width:767px){

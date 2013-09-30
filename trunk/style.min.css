@@ -287,9 +287,9 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
 .mainnav {
 	position: relative;
-	min-height: 40px;
+	min-height: 30px;
 }	
-.mainnav ul {
+#mainmenu ul {
 	width: 180px;
 	padding: 5px 0;
 	position: absolute;

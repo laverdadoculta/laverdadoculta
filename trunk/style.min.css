@@ -289,7 +289,6 @@ body{width: 712px;padding: 20px 28px 0;}
 .feed-links,#blog-pager,#masthead,#mainmenu,#sidebar,#teaser{display:none;}
 .border_right_15{border-right:0;}
 .entry {border:0;}
-#main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 }
 

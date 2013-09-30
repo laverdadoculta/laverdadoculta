@@ -301,7 +301,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 
 @media (max-width:480px){
 body{padding-left: 5px;padding-right: 5px;background: #fff !important;}
-.entry h1.entry_title{font: normal 24px/41px Georgia,Helvetica,sans-serif;}
+.entry h1.entry_title{font: normal 24px/41px Georgia,Helvetica,sans-serif;line-height: 1em;}
 #logo{margin: 0 auto;width: 40%;text-align: center;}
 }
 

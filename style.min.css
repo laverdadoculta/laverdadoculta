@@ -302,7 +302,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 @media (max-width:480px){
 body {padding-left: 5px;padding-right: 5px;background: #fff !important;}
 h1{font-size: 24px;}
- #logo img {max-width: 40%%;}
+#logo img {max-width: 80%%;}
 }
 
 @media print {

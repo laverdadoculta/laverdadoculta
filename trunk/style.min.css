@@ -285,32 +285,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
-.mainnav ul {
-    list-style: none;
-    background: #1c1c1c;
-    padding: 5px 0;
-}
-.mainnav li a {
-    display: block;
-    padding: 0 20px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    letter-spacing: 0.1em;
-    line-height: 2em;
-    height: 2em;
-    border-bottom: 1px solid #383838;
-}
-.mainnav li:last-child a {
-    border-bottom: none;
-}
-.mainnav li a:hover,
-.mainnav li a:focus {
-    color: #1c1c1c;
-    background: #ccc;
-}
 }
 
 @media (max-width:767px){

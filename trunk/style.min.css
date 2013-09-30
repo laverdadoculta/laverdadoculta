@@ -328,12 +328,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .mainnav ul:hover .current {
 	background: url(http://2.bp.blogspot.com/-_meHRr2RpNg/Ukn-hb-PGtI/AAAAAAAAXB0/jeD5NRU1Bv0/s1600/icon-check.png) no-repeat 10px 7px;
 }
-
-/* center nav */
-.mainnav.center ul {
-	left: 50%;
-	margin-left: -90px;
-}
 }
 
 @media (max-width:767px){

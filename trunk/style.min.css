@@ -86,14 +86,14 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
-#mainmenu{height:40px;width:100%;background:#455868;font-size:11pt;font-family:'PT Sans', Arial, sans-serif;font-weight:700;position:relative;border-bottom:2px solid #283744;}
-.mainnav{width:600px;height:40px;margin:0 auto;padding:0;}
+#mainmenu{height:40px;width:100%;background:#455868;font-size:12pt;font-family:Georgia,helvetica,sans-serif;font-weight:700;position:relative;border-bottom:2px solid #283744;}
+.mainnav{width:100%;height:40px;margin:0 auto;padding:0;}
 .mainnav li{display:inline;float:left;}
 .mainnav a{color:#fff;display:inline-block;width:100px;text-align:center;text-decoration:none;line-height:40px;text-shadow:1px 1px 0 #283744;}
 .mainnav li a{border-right:1px solid #576979;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
 .mainnav li:last-child a{border-right:0;}
-.mainnav a:hover,.mainnav a:active{background-color:#8c99a4;}
-#mainmenu a#pull{display:none;}
+.mainnav a:hover,#mainmenu a:active{background-color:#8c99a4;}
+.mainnav a#pull{display:none;}
 #submenu{width: 100%;height:32px;background:#e8e8e8;overflow: hidden;}
 .subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}
 .subnav li ul li{float:none;border-right:none;background:#fff;margin:0;}

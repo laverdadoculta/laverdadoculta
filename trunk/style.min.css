@@ -285,6 +285,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
+.tinynav { display: block; position:absolute; bottom:5px; width:79%; margin-left:15%}
 }
 
 @media (max-width:767px){

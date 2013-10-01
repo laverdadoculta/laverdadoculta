@@ -87,7 +87,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
 #mainmenu{height:30px;width:100%;background:#455868;font-size:11pt;font-family:'PT Sans', Arial, sans-serif;font-weight:700;position:relative;border-bottom:2px solid #283744;}
-#mainmenu ul{width:600px;height:30px;margin:0 auto;padding:0;}
+#mainmenu ul{width:100%;height:30px;margin:0 auto;padding:0;}
 #mainmenu li{display:inline;float:left;}
 #mainmenu a{color:#fff;display:inline-block;width:100px;text-align:center;text-decoration:none;line-height:40px;text-shadow:1px 1px 0 #283744;}
 #mainmenu li a{border-right:1px solid #576979;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}

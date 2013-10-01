@@ -92,7 +92,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mainmenu a{color:#fff;display:inline-block;width:106.66px;text-align:center;text-decoration:none;line-height:30px;text-shadow:1px 1px 0 #283744;}
 #mainmenu li a{border-right:1px solid #576979;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
 #mainmenu li:last-child a{border-right:0;}
-#mainmenu a:hover,#mainmenu a:active{background-color:#8c99a4;}
+#mainmenu a:hover,#mainmenu a:active{color:#fff;background:#b22d2d;}
 #mainmenu a#pull{display:none;}
 #submenu{width: 100%;height:32px;background:#e8e8e8;overflow: hidden;}
 .subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}

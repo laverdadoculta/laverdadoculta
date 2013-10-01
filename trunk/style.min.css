@@ -86,15 +86,14 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
-#mainmenu{width: 100%;height:30px;background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;}
-#mainmenu a#pull{display: none;}   
-.mainnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;}
-.mainnav li{float:left;position:relative;border-left:1px solid #555;}
-.mainnav li a{color:#fff;display:block;padding:8px 15px;}
-.mainnav li a:hover,.mainnav li.current_page_item a,.mainnav li.current-cat a,.mainnav li.current-menu-item a{color:#fff;background:#b22d2d;}
-.mainnav li ul li{float:none;border-left:none;margin:0;}
-.mainnav li ul li a{color:#333;background:#fff;width:158px;border-color:#bbb;border-style:solid;border-width:1px 1px 0;margin:0;padding:3px 10px;}
-.mainnav .sf-sub-indicator{background:url(http://4.bp.blogspot.com/-tuSbFOytOds/TrOriScF-II/AAAAAAAAAHc/Hlxmm72DmfY/arrow-superfish-down.png) no-repeat;position:absolute;display:block;right:7px;top:14px;width:10px;height:10px;text-indent:-999em;overflow:hidden;}
+#mainmenu{height:30px;width:100%;background:#455868;font-size:11pt;font-family:'PT Sans', Arial, sans-serif;font-weight:700;position:relative;border-bottom:2px solid #283744;}
+#mainmenu ul{width:600px;height:30px;margin:0 auto;padding:0;}
+#mainmenu li{display:inline;float:left;}
+#mainmenu a{color:#fff;display:inline-block;width:100px;text-align:center;text-decoration:none;line-height:40px;text-shadow:1px 1px 0 #283744;}
+#mainmenu li a{border-right:1px solid #576979;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+#mainmenu li:last-child a{border-right:0;}
+#mainmenu a:hover,#mainmenu a:active{background-color:#8c99a4;}
+#mainmenu a#pull{display:none;}
 #submenu{width: 100%;height:32px;background:#e8e8e8;overflow: hidden;}
 .subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}
 .subnav li ul li{float:none;border-right:none;background:#fff;margin:0;}

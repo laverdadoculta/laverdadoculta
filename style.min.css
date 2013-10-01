@@ -288,12 +288,10 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .border_right_15{border-right:0;}
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
 #mainmenu{background:#333;height: auto;}
-#mainmenu ul{display: none;height: auto;}
+#mainmenu ul{display: block;height: auto;}
 #mainmenu a{text-align: left;width: 100%;text-indent: 25px;}  
 #mainmenu li{position: relative;float:left;width:50%;}
 #mainmenu li a{border-bottom:1px solid #555;border-right: 1px solid #555;}
-#mainmenu a#pull{display:block;background-color:#283744;width:100%;position:relative;}
-#mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
 }
 
 @media (max-width:767px){

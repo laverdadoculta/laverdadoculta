@@ -280,9 +280,9 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .morelinks{height: 25px;border: 0;margin-bottom: 0;}
 .tophome{float: left;}
 .printlink{float: right;}
-#mainmenu:before,#mainmenu:after{content:" ";display:table;}
-#mainmenu:after{clear:both;}
-#mainmenu{zoom:1;}
+.mainnav:before,.mainnav:after{content:" ";display:table;}
+.mainnav:after{clear:both;}
+.mainnav{zoom:1;}
 
 @media (min-width:768px) and (max-width:979px){
 .feed-links,#blog-pager,#sidebar,#teaser{display:none;}

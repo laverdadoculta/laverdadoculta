@@ -254,6 +254,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .ftimg{width:100%;}
 .vcard img{width:29px;height:29px;float:left;margin-right:6px;}
 #blog-pager{font-weight:700;}
+#blog-pager-newer-link{float:right;}
+#blog-pager-older-link{float:left;}
 .widget form,.widget fieldset,.entry ul ul,.entry ol ol{margin:0;}
 #mainmenu .widget ul li,#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
 #mainmenu .widget ul,#mhead .widget ul{padding-left:0;}
@@ -280,9 +282,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .morelinks{height: 25px;border: 0;margin-bottom: 0;}
 .tophome{float: left;}
 .printlink{float: right;}
-#blog-pager-newer-link{float:right;}
-#blog-pager-older-link{float:left;}
-#blog-pager{text-align:center;}
 
 @media (min-width:768px) and (max-width:979px){
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}

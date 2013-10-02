@@ -285,7 +285,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .mainnav{zoom:1;}
 
 @media (min-width:768px) and (max-width:979px){
-.feed-links,#blog-pager,#sidebar,#teaser{display:none;}
+.feed-links,#blog-pager,#sidebar,#teaser.post-footer-line-1{display:none;}
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
@@ -307,7 +307,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
 #fb-root{display: none;}
-.fb_iframe_widget,.fb_iframe_widget span{width:100%!important;}
+.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;}
 #mainmenu{background:#333;height: auto;}
 #mainmenu ul{width:100%;display:none;height:auto;}
 #mainmenu li{width:50%;float: left;position:relative;}

@@ -298,7 +298,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 
 @media (max-width:767px){
-.feed-links,#blog-pager,#masthead,#banner,#submenu,.article-metadata,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.comments-tab img,#blogger-comments,#blogger-comments.js-inactive-tab,#fb-comments,#fb-comments.js-inactive-tab,.js-inactive-tab,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright{display:none;}
+.feed-links,#blog-pager,#masthead,#banner,#submenu,.article-metadata,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.comments-tab img,#blogger-comments,#blogger-comments.js-inactive-tab,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright{display:none;}
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left{width:100%;}
 #logo{margin: 0 auto;width: 60%;text-align: center;margin: 2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width: 100%;}
@@ -324,6 +324,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 @media (max-width:320px){
 #mainmenu li{display: block;float:none;width:100%;}
 #mainmenu li a{border-bottom: 1px solid #555;}
+.fb_iframe_widget iframe {width:320px !important;}
 }
 
 @media print {

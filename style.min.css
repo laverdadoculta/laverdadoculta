@@ -307,7 +307,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu li{width:50%;float:left;position:relative;}
 #mainmenu li a{border-bottom:1px solid #555;border-right:1px solid #555;}
 #mainmenu a{text-align:left;width:100%;text-indent:25px;}
-#mainmenu a#pull{display:block;background-color:#283744;width:100%;position:relative;}
+#mainmenu a#pull{display:block;background-color:#202020;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
 .feed-links,#masthead,#banner,#submenu,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.morelinks,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,#fb-root,.footer_link,#footer-right-side{display:none;}
 }

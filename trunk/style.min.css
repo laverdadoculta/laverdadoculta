@@ -285,7 +285,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .mainnav{zoom:1;}
 
 @media (min-width:768px) and (max-width:979px){
-.feed-links,#blog-pager,#sidebar,#teaser.post-footer-line-1{display:none;}
+.feed-links,#blog-pager,#sidebar,#teaser,#post-footer-line-1{display:none;}
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}

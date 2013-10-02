@@ -295,7 +295,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 
 @media (max-width:767px){
-#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left{width:100%;}
+#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width:100%;}
 #logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width:100%;}
 .entry{border:0;}
@@ -309,7 +309,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu a{text-align:left;width:100%;text-indent:25px;}
 #mainmenu a#pull{display:block;background-color:#283744;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
-.feed-links,#blog-pager,#masthead,#banner,#submenu,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,#fb-root{display:none;}
+.feed-links,#blog-pager,#masthead,#banner,#submenu,#sidebar,.comments,.comments-page,#blogger-comments-page,.comment-form,.comments-tab,.morelinks,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,#fb-root,.footer_link,#footer-right-side{display:none;}
 }
 
 @media (max-width:480px){

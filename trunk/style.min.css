@@ -307,7 +307,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .border_right_15{border-right:0;}
 .fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
 #mainmenu{background:#333;height: auto;}
-#mainmenu ul{width:100%;display:block;height:auto;}
+#mainmenu ul{width:100%;display:none;height:auto;}
 #mainmenu li{width:50%;float: left;position:relative;}
 #mainmenu li a{border-bottom: 1px solid #555;border-right: 1px solid #555;}
 #mainmenu a{text-align:left;width:100%;text-indent:25px;}

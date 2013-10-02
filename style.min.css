@@ -255,7 +255,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .vcard img{width:29px;height:29px;float:left;margin-right:6px;}
 #blog-pager{font-weight:700;}
 #blog-pager-newer-link{float:right!important;}
-#blog-pager-older-link{float:left;!important;}
+#blog-pager-older-link{float:left!important;}
 .widget form,.widget fieldset,.entry ul ul,.entry ol ol{margin:0;}
 #mainmenu .widget ul li,#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
 #mainmenu .widget ul,#mhead .widget ul{padding-left:0;}

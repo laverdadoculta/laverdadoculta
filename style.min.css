@@ -289,7 +289,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
-.fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
+.fb-comments,.fb-comments span, .fb-comments iframe[style],.fb-comments iframe span[style]{width: 100% !important;}
 #mainmenu{background:#333;height: auto;}
 #mainmenu ul{width:100%;display:block;height:auto;}
 #mainmenu li{width:50%;float: left;position:relative;}
@@ -305,7 +305,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry {border:0;}
 .entry img{width:100%;height: auto;vertical-align: middle;}
 .border_right_15{border-right:0;}
-.fb-comments, .fb-comments iframe[style], .fb-comments span[style] {width: 100% !important;}
+.fb-comments,.fb-comments span, .fb-comments iframe[style],.fb-comments iframe span[style]{width: 100% !important;}
 #mainmenu{background:#333;height: auto;}
 #mainmenu ul{width:100%;display:none;height:auto;}
 #mainmenu li{width:50%;float: left;position:relative;}

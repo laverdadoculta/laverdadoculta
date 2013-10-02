@@ -317,7 +317,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 
 @media (max-width:480px){
 #mainmenu{border-bottom:0;}
-#mainmenu ul{display:block;height:auto;}
+#mainmenu ul{display:none;height:auto;}
 .entry h1.entry_title{font: normal 24px/41px Georgia,Helvetica,sans-serif;line-height: 1em;}
 }
 

@@ -285,7 +285,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 
 @media (min-width:768px) and (max-width:979px){
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
-article .fb-like-box.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget iframe {width: 100% !important;margin-left: 0px;}
+#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;;margin-left: 0px;}
 .entry img{width:100%;height:auto;vertical-align:middle;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
@@ -297,8 +297,8 @@ article .fb-like-box.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget
 }
 
 @media (max-width:767px){
-#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
-article .fb-like-box.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget iframe {width: 100% !important;margin-left: 0px;}
+#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;;margin-left: 0px;}
+.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;}
 #logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width:100%;}
 .entry{border:0;}

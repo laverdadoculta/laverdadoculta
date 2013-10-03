@@ -283,7 +283,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 
 @media (min-width:768px) and (max-width:979px){
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
-.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;;margin-left: 0px;}
 .entry img{width:100%;height:auto;vertical-align:middle;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
@@ -292,11 +291,12 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu li a{border-bottom:1px solid #555;border-right:1px solid #555;}
 #mainmenu a{text-align:left;width:100%;text-indent:25px;}
 .feed-links,#sidebar,#teaser,#post-footer-line-1{display:none;}
+.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;;margin-left: 0px;}
+.fb_iframe_widget span{display:block!important;}
 }
 
 @media (max-width:767px){
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
-.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;;margin-left: 0px;}
 #logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width:100%;}
 .entry img{width:100%;height:auto;vertical-align:middle;}
@@ -309,7 +309,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu a#pull{display:block;background-color:#202020;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
 .feed-links,.mastheadnav,#banner,.subnav li.date,#sidebar,.morelinks,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.article-metadata,.footer_link,#footer-right-side{display:none;}
-.fb_iframe_widget span{display:block !important;}
+.fb_iframe_widget,.fb_iframe_widget span,.fb_iframe_widget span iframe[style]{width:100%!important;;margin-left: 0px;}
+.fb_iframe_widget span{display:block!important;}
 }
 
 @media (max-width:480px){

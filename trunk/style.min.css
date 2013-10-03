@@ -284,7 +284,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .printlink{float: right;}
 
 @media (min-width:768px) and (max-width:979px){
-#main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
+#main,#main-wrapper,#container,#tabcontent.ftimg,.fb_iframe_widget span{width:100%;}
 .entry img{width:100%;height:auto;vertical-align:middle;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
@@ -296,7 +296,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 
 @media (max-width:767px){
-#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
+#main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side,.fb_iframe_widget span{width:100%;}
 #logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width:100%;}
 .entry{border:0;}

@@ -169,7 +169,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #bottom_banners{width:980px;display:block;background:#666;margin:0 auto;}
 #bottom_banners .leftad{float:left;width:auto;}
 #bottom_banners .rightad{float:right;width:auto;}
-#footer{max-width:960px; min-width:320px;background:url(http://2.bp.blogspot.com/-_5mDnJCevbw/UVRlHsZ2OYI/AAAAAAAASpo/gRslXcugjmo/s1600/bg_footer.jpg) repeat-x scroll center top #202020;margin:0 auto;padding:10px;}
+#footer{width: 100%;background:url(http://2.bp.blogspot.com/-_5mDnJCevbw/UVRlHsZ2OYI/AAAAAAAASpo/gRslXcugjmo/s1600/bg_footer.jpg) repeat-x scroll center top #202020;margin:0 auto;padding:10px;}
 .footer_link{color:#999;float:right;font-size:16px;line-height:18px;text-align:right;width:200px;margin:14px 0 10px;}
 .footer_logo{float:left;margin:5px 0 10px;}
 #footer p{padding:5px 0;}
@@ -178,7 +178,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer .widget h2{margin-bottom:5px;font:bold 13px Georgia,tahoma,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
 #footer .widget .title a,#footer .widgettitle a:hover{color:#f6f7f7;}
 #foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;display:inline;}
-#footer_data{color:#797979;font-size:11px;display:block;max-width:960px; min-width:320px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
+#footer_data{color:#797979;font-size:11px;display:block;width: 100%;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
 .footer_hr{background:none repeat scroll 0 0 #393835;border:0 none;clear:both;color:#393835;height:1px;margin-bottom:8px;padding-top:0;}
 #footer_data a{color:#cdcdcd;}
 #footer-left-side{width:50%;float:left;}

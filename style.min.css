@@ -101,7 +101,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .mainnav{zoom:1;}
 #submenu{width: 100%;height:32px;background:#e8e8e8;overflow: hidden;}
 .subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}
-.subnav li.twitter-follow,.subnav li.facebook-follow{padding:6px 10px;}
+.subnav li.twitter-follow,.subnav li.facebook-follow{padding:5px 10px;}
 .subnav li.date{float:right;padding:9px 10px;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
 #teaser .col_teaser{width:220px;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 10px 12px 9px;}

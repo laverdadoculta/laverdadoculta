@@ -129,6 +129,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mediabar #next_button{position:absolute;right:0;top:0;width:25px;height:210px;background:url(http://2.bp.blogspot.com/-L6AaS9A6j7w/TrOtbwaVoyI/AAAAAAAAALA/miXTz_tPfn0/right.gif) no-repeat center center;z-index:100;cursor:pointer;}
 #primary_bottomleft{float:left;width:50.38759689922481%;}
 #primary_bottomright{display:block;width:46.51162790697674%;font:bold 12px/13px arial,verdana,sans-serif;float:right;overflow: hidden;}
+#primary_bottomright iframe{width:100%;}
 #tabcontent{width:100%;overflow:hidden;display:block;}
 #tabcontent_title{width:100%;overflow:hidden;background:url(http://4.bp.blogspot.com/-bxFyy-bHmlo/TrOrlpNAWfI/AAAAAAAAAIM/0Ng7c80MxWE/bgr_tabs_title.gif) repeat-x bottom;}
 #tabcontent_title li{float:left;font-size:12px;text-transform:uppercase;padding:0 2px 0 0;}

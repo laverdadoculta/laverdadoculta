@@ -282,6 +282,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .printlink{float: right;}
 
 @media screen and (max-width: 1500px) and (min-width: 980px) {
+.fb_iframe_widget{width:100%!important;}
+.comments-page .fb_iframe_widget span iframe[style],.comments-page .fb_iframe_widget span{width:100%!important;}
 }
 
 @media (min-width:768px) and (max-width:979px){

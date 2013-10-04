@@ -35,9 +35,9 @@ h6{font-size:12px;}
 .panes a.pad{display:block;margin:0 0 3px;}
 .tabs{list-style:none;height:33px;border-bottom:1px solid #666;font-size:12px;margin:0!important;padding:0!important;}
 .tabs li{float:left;text-indent:0;list-style:none!important;border:0!important;background:none!important;margin:0!important;padding:0!important;}
-.tabs a{background:url(http://1.bp.blogspot.com/-NpqoEwlQIDg/UUo6ne26UeI/AAAAAAAASbc/AVFo7GTPGpk/s1600/tabs%5B1%5D.png) no-repeat 0 0;display:block;height:31px;line-height:31px;width:96px;text-align:center;text-decoration:none;color:#000;position:relative;top:1px;margin:0;padding:2px 0 0;}
+.tabs a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
 .tabs a:active{outline:none;}
-.tabs .current,.tabs .current:hover,.tabs li.current a{background-position:0 -68px;cursor:default!important;color:#000!important;}
+.tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:7px 10px 0 9px;}
 .widget_rss .widget-title img{width:11px;height:11px;}
 .entry img{max-width:623px;padding: 1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .entry iframe{width:100%;max-width:623px;}

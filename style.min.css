@@ -300,7 +300,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
 #logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
 #logo img{max-width:100%;}
-.entry img{width:100%;height:auto;vertical-align:middle;margin:0!important;}
+.entry img{width:100%;height:auto;vertical-align:middle;}
+.entry a{margin:0!important;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
 #mainmenu ul{width:100%;display:none;height:auto;}

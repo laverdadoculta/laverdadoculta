@@ -61,6 +61,7 @@ body{background:#eee;color:#333;font:14px/19px Arial,Helvetica,sans-serif;line-h
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
+a#noTransition {-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .widget{font:13px/20px Arial,Helvetica,sans-serif;}
 .widget a:hover,.widget a:active{color:#000;}
@@ -195,7 +196,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .social-sharing{height:24px;margin:0 100px 0 0;}
 .social-sharing .social-sharing-widgets{min-height:24px;float:left!important;}
 .share-google,.share-twitter,.share-addthis{float:left;padding-right: 10px;}
-.share-addthis a{-moz-transition: none;-webkit-transition: none;-o-transition: color 0 ease-in;transition: none;}
 .share-facebook{float:left;width:121px;padding-right: 10px;}
 .postCategory{padding-left:15px;background:url(http://2.bp.blogspot.com/-ufkUoySMd58/TrOsGsVqB-I/AAAAAAAAAKE/x3S-tihaBjI/folder.gif) no-repeat left center;}
 .entry blockquote{background:url(http://3.bp.blogspot.com/-J4kuYtXXjsE/UWYLUrAk4dI/AAAAAAAAS9k/HW0fW1Toikg/s1600/blockquote%5B1%5D.png) no-repeat scroll -130px -15px transparent;color:#222;float:right;font-size:12px;font-style:normal;font-weight:700;line-height:20px;width:150px;position:relative;margin:5px 10px 10px 0;padding:15px 15px 0 20px;}

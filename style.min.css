@@ -282,6 +282,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .printlink{float: right;}
 
 @media screen and (max-width: 1108px) and (min-width: 980px) {
+.entry h1.entry_title{font-size:24px;}
 .fb_iframe_widget{width:100%!important;}
 .comments-page .fb_iframe_widget span iframe[style],.comments-page .fb_iframe_widget span{width:100%!important;}
 }
@@ -322,7 +323,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width:100%;}
 #mainmenu{border-bottom:0;}
 #mainmenu ul{display:none;height:auto;}
-.entry h1.entry_title{font-size:24px;;line-height:1em;}
+.entry h1.entry_title{font-size:24px;line-height:1em;}
 .share-twitter{display:none;}
 }
 

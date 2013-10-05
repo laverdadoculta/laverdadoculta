@@ -311,7 +311,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu a{text-align:left;width:100%;text-indent:25px;}
 #mainmenu a#pull{display:block;background-color:#202020;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
-.feed-links,.mastheadnav,#banner,.subnav li.date,#sidebar,.morelinks,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,.footer_link,#footer-right-side{display:none;}
+.feed-links,.mastheadnav,#banner,.subnav li.date,#sidebar,.post-footer,#teaser,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,.footer_link,#footer-right-side{display:none;}
 .fb_iframe_widget,.comments-page .fb_iframe_widget span iframe[style],.comments-page .fb_iframe_widget span{width:100%!important;}
 .fb_iframe_widget span{display:block!important;}
 }
@@ -320,7 +320,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mainmenu{border-bottom:0;}
 #mainmenu ul{display:none;height:auto;}
 .entry h1.entry_title{font-size:24px;line-height:1em;}
-.share-twitter{display:none;}
+.share-twitter,#tabcontent{display:none;}
 }
 @media screen and (max-width: 320px) {
 #mainmenu li{display:block;float:none;width:100%;}

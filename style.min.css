@@ -297,7 +297,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 @media screen and (max-width: 767px) {
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
-#logo{width:60%;text-align:center;margin:2.08% 1.04% 2.08% 1.35%;}
+#logo{width:60%;text-align:center;margin:10px 1.04% 10px 1.35%;}
 #logo img{max-width:100%;}
 .entry img{width:100%;height:auto;vertical-align:middle;}
 .entry a{margin:0!important;}

@@ -61,7 +61,7 @@ body{background:#eee;color:#333;font:14px/19px Arial,Helvetica,sans-serif;line-h
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
-a.share-addthis{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
+a.noTransition{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .widget{font:13px/20px Arial,Helvetica,sans-serif;}
 .widget a:hover,.widget a:active{color:#000;}

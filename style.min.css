@@ -236,12 +236,13 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .comments h2.title{margin-bottom: 16px;}
 .fullwidth{width:960px!important;}
 .ftimg{width:100%;}
+.vcard img{width:29px;height:29px;float:left;margin-right:6px;}
 #blog-pager{font-weight:700;}
 #blog-pager-newer-link{float:right!important;}
 #blog-pager-older-link{float:left!important;}
 .widget form,.widget fieldset,.entry ul ul,.entry ol ol{margin:0;}
-#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
-#mhead .widget ul{padding-left:0;}
+#mainmenu .widget ul li,#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
+#mainmenu .widget ul,#mhead .widget ul{padding-left:0;}
 .widget_rss a.rsswidget,.metasingle a:hover,.breadcrumbs a:hover{color:#000;}
 .widget a,.widget .title a,.widget .title a:hover{color:#069;}
 #wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#000;}
@@ -249,6 +250,11 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .posttitle a,.featured_right a,.breadcrumbs a,li div.comment-author a{color:#069;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}
 .mastheadnav li,.subnav li{float:left;position:relative;}
+.mainnav li ul,.subnav li ul{border-bottom:1px solid #bbb;position:absolute;z-index:999;width:180px;}
+.mainnav li ul li a.sf-with-ul,.subnav li ul li a.sf-with-ul{padding:3px 10px;}
+.mainnav li ul li a:hover,.subnav li ul li a:hover{background:#999;color:#fff;}
+.mainnav li ul ul,.subnav li ul ul{padding-top:0;margin:-23px 0 0 179px;}
+.mainnav li ul .sf-sub-indicator,.subnav li ul .sf-sub-indicator{background:url(http://1.bp.blogspot.com/-OPal8r-OnP4/TrOrinf10sI/AAAAAAAAAHo/S_Avo04DcOA/arrow-superfish-right.png) no-repeat;right:5px;top:8px;}
 #teaser .odd,ol.commentlist li.odd{background:#f6f7f7;}
 #mediabar #previous_button.disabled,#mediabar #next_button.disabled{background:url(http://4.bp.blogspot.com/-ZeFFWtH5z64/TrOsEgJUIdI/AAAAAAAAAJg/t2CQZJ28Lh0/disable.gif) no-repeat center center;cursor:default;}
 #footer .widget,.entry h3.widgettitle{margin-bottom:0;}

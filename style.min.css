@@ -217,10 +217,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #entryMeta{font-size:12px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;margin: 20px 0;}
 #entryMeta a{color:#8f8f8f;text-decoration:none;}
 #entryMeta .tags-caption span.tag{display: block;float: left;margin: 2px 7px 0 0;width: 16px;height: 16px;background: url("http://4.bp.blogspot.com/-pJvzFgV7u_0/UjdZst8ND0I/AAAAAAAAWj4/SLQbMAbcfJE/s1600/tags.png") no-repeat transparent;}
-.author_meta{font-size:15px;line-height:17px;border:1px solid #ddd;background:#f6f7f7;margin-bottom:15px;padding:7px;}
-.author_meta img{float:left;border:1px solid #bbb;margin-top:1px;margin-right:10px;padding:1px;}
-.author_meta a{color:#8f8f8f;text-decoration:underline;}
-.author_meta a:hover{text-decoration:none;}
 .numbered-pagination{text-shadow:none;font-size:12px;color:#666;margin-bottom:5px;}
 .numbered-pagination a{border:solid 1px #ccc;display:block;float:left;color:#666;margin-right:5px;padding:1px 7px;}
 .numbered-pagination span{border:solid 1px #ccc;display:block;float:left;margin-right:5px;padding:1px 7px;}
@@ -236,16 +232,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .navigation a:link,.navigation a:visited{color:#069;text-decoration:none;}
 .nav-previous{float:left;width:50%;}
 .nav-next{float:right;text-align:right;width:50%;}
-.gab_authorInfo{background:#f6f7f7;border:1px solid #ccc;font:11px/15px verdana,arial,sans-serif;margin:5px 0;padding:5px;}
-.gab_authorPic{float:left;width:50px;display:inline;margin-right:7px;}
 .comments{margin-top:0!important;}
 .comments h2.title{margin-bottom: 16px;}
-.comments .comments-content .comment-content{text-align:left!important;}
-.comments .comments-content .inline-thread{background:#f6f7f7;border:1px solid #ddd;}
-.comments .comments-content .comment{border-bottom:1px solid #ddd!important;}
-.comments .avatar-image-container{background:url(http://4.bp.blogspot.com/-SGVRdTVEU_I/TZtDiTE9xNI/AAAAAAAAFYI/Oj8zWFsfs-Y/s1600/icono-persona-c.png) no-repeat center center;border:3px solid #ddd;}
-.comments .avatar-image-container,.comments .avatar-image-container img{-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;}
-#respond{overflow:hidden;position:relative;background:#f6f7f7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;margin:5px 0 0;padding:10px 15px 5px;}
 .fullwidth{width:960px!important;}
 .ftimg{width:100%;}
 .vcard img{width:29px;height:29px;float:left;margin-right:6px;}

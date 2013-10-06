@@ -217,6 +217,10 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #entryMeta{font-size:12px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;margin: 20px 0;}
 #entryMeta a{color:#8f8f8f;text-decoration:none;}
 #entryMeta .tags-caption span.tag{display: block;float: left;margin: 2px 7px 0 0;width: 16px;height: 16px;background: url("http://4.bp.blogspot.com/-pJvzFgV7u_0/UjdZst8ND0I/AAAAAAAAWj4/SLQbMAbcfJE/s1600/tags.png") no-repeat transparent;}
+.author_meta{font-size:15px;line-height:17px;border:1px solid #ddd;background:#f6f7f7;margin-bottom:15px;padding:7px;}
+.author_meta img{float:left;border:1px solid #bbb;margin-top:1px;margin-right:10px;padding:1px;}
+.author_meta a{color:#8f8f8f;text-decoration:underline;}
+.author_meta a:hover{text-decoration:none;}
 .numbered-pagination{text-shadow:none;font-size:12px;color:#666;margin-bottom:5px;}
 .numbered-pagination a{border:solid 1px #ccc;display:block;float:left;color:#666;margin-right:5px;padding:1px 7px;}
 .numbered-pagination span{border:solid 1px #ccc;display:block;float:left;margin-right:5px;padding:1px 7px;}
@@ -242,13 +246,12 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #respond{overflow:hidden;position:relative;background:#f6f7f7;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;margin:5px 0 0;padding:10px 15px 5px;}
 .fullwidth{width:960px!important;}
 .ftimg{width:100%;}
-.vcard img{width:29px;height:29px;float:left;margin-right:6px;}
 #blog-pager{font-weight:700;}
 #blog-pager-newer-link{float:right!important;}
 #blog-pager-older-link{float:left!important;}
 .widget form,.widget fieldset,.entry ul ul,.entry ol ol{margin:0;}
-#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
-#mhead .widget ul{padding-left:0;}
+#mainmenu .widget ul li,#mhead .widget ul li{border-bottom:none;margin-bottom:0;padding-bottom:0;}
+#mainmenu .widget ul,#mhead .widget ul{padding-left:0;}
 .widget_rss a.rsswidget,.metasingle a:hover,.breadcrumbs a:hover{color:#000;}
 .widget a,.widget .title a,.widget .title a:hover{color:#069;}
 #wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#000;}
@@ -256,6 +259,11 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .posttitle a,.featured_right a,.breadcrumbs a,li div.comment-author a{color:#069;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}
 .mastheadnav li,.subnav li{float:left;position:relative;}
+.mainnav li ul,.subnav li ul{border-bottom:1px solid #bbb;position:absolute;z-index:999;width:180px;}
+.mainnav li ul li a.sf-with-ul,.subnav li ul li a.sf-with-ul{padding:3px 10px;}
+.mainnav li ul li a:hover,.subnav li ul li a:hover{background:#999;color:#fff;}
+.mainnav li ul ul,.subnav li ul ul{padding-top:0;margin:-23px 0 0 179px;}
+.mainnav li ul .sf-sub-indicator,.subnav li ul .sf-sub-indicator{background:url(http://1.bp.blogspot.com/-OPal8r-OnP4/TrOrinf10sI/AAAAAAAAAHo/S_Avo04DcOA/arrow-superfish-right.png) no-repeat;right:5px;top:8px;}
 #teaser .odd,ol.commentlist li.odd{background:#f6f7f7;}
 #mediabar #previous_button.disabled,#mediabar #next_button.disabled{background:url(http://4.bp.blogspot.com/-ZeFFWtH5z64/TrOsEgJUIdI/AAAAAAAAAJg/t2CQZJ28Lh0/disable.gif) no-repeat center center;cursor:default;}
 #footer .widget,.entry h3.widgettitle{margin-bottom:0;}

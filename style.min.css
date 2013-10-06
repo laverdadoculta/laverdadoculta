@@ -92,11 +92,10 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mainmenu a{color:#fff;display:inline-block;width:108.55px;text-align:center;text-decoration:none;line-height:30px;text-shadow:1px 1px 0 #283744;}
 #mainmenu li a{border-right:1px solid #333;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
 #mainmenu li:last-child a{border-right:0;}
-#mainmenu a:hover,#mainmenu a:active,{color:#fff;background:#b22d2d;}
+#mainmenu a:hover,#mainmenu a:active{color:#fff;background:#b22d2d;}
 #mainmenu a#pull{display:none;}
 .mainnav{font-family:Georgia,helvetica,sans-serif;font-size:9pt;font-weight:700;letter-spacing: -1px;}
 .mainnav:before,.mainnav:after{content:" ";display:table;}
-.mainnav .sf-sub-indicator{background:url(http://4.bp.blogspot.com/-tuSbFOytOds/TrOriScF-II/AAAAAAAAAHc/Hlxmm72DmfY/arrow-superfish-down.png) no-repeat;position:absolute;display:block;right:7px;top:14px;width:10px;height:10px;text-indent:-999em;overflow:hidden;}
 .mainnav:after{clear:both;}
 .mainnav{zoom:1;}
 #submenu{width: 100%;height:33px;background:#e8e8e8;}
@@ -263,6 +262,11 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .posttitle a,.featured_right a,.breadcrumbs a,li div.comment-author a{color:#069;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}
 .mastheadnav li,.subnav li{float:left;position:relative;}
+.mainnav li ul,.subnav li ul{border-bottom:1px solid #bbb;position:absolute;z-index:999;width:180px;}
+.mainnav li ul li a.sf-with-ul,.subnav li ul li a.sf-with-ul{padding:3px 10px;}
+.mainnav li ul li a:hover,.subnav li ul li a:hover{background:#999;color:#fff;}
+.mainnav li ul ul,.subnav li ul ul{padding-top:0;margin:-23px 0 0 179px;}
+.mainnav li ul .sf-sub-indicator,.subnav li ul .sf-sub-indicator{background:url(http://1.bp.blogspot.com/-OPal8r-OnP4/TrOrinf10sI/AAAAAAAAAHo/S_Avo04DcOA/arrow-superfish-right.png) no-repeat;right:5px;top:8px;}
 #teaser .odd,ol.commentlist li.odd{background:#f6f7f7;}
 #mediabar #previous_button.disabled,#mediabar #next_button.disabled{background:url(http://4.bp.blogspot.com/-ZeFFWtH5z64/TrOsEgJUIdI/AAAAAAAAAJg/t2CQZJ28Lh0/disable.gif) no-repeat center center;cursor:default;}
 #footer .widget,.entry h3.widgettitle{margin-bottom:0;}
@@ -324,4 +328,3 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .border_right_15{border-right:0;}
 .entry{border:0;}
 #main,#main-wrapper,#container{width:100%;}
-}

@@ -122,7 +122,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mediabar li a{color:#000;}
 #mediabar .container{position:absolute;left:25px;width:92.24806201550388%!important;height:210px;overflow:hidden;}
 #mediabar ul{width:400%!important;position:relative;}
-#mediabar li{float:left;width:5.453020134228188%!important;height:190px;border-right:1px solid #ddd;padding:10px 9px;}
+#mediabar li{float:left;width:5.453020134228188%!important;height:190px;border-right:1px solid #ddd;padding:10px 0.377%;}
 #mediabar .thumb{width:100%;height:120px;overflow:hidden;border:none;margin:0 0 5px;padding:0;}
 #mediabar .thumb img{display:block;margin:0 auto;}
 #mediabar #previous_button{position:absolute;width:25px;height:210px;left:0;top:0;background:url(http://1.bp.blogspot.com/-szsOEVmQRxo/TrOsHTOK6QI/AAAAAAAAAKQ/Wt_1L8RjJWQ/left.gif) no-repeat center center;z-index:100;cursor:pointer;}

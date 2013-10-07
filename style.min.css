@@ -34,7 +34,7 @@ h6{font-size:12px;}
 .panes li{font-family:Georgia,Helvetica,sans-serif;list-style:disc outside;margin-left:10px;}
 .panes a.pad{display:block;margin:0 0 3px;}
 .tabs{list-style:none;height:33px;border-bottom:1px solid #ddd;font-size:12px;margin:0!important;padding:0!important;}
-.tabs li{float:left;text-indent:0;list-style:none!important;border:0!important;background:none!important;margin:0!important;padding:0!important;}
+.tabs li{float:left;text-indent:0;list-style:none!important;border:0!important;background:none!important;margin:0!important;padding:padding: 0 2px 0 0!important;}
 .tabs a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
 .tabs a:active{outline:none;}
 .tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:7px 10px 2px 9px;cursor:default!important}

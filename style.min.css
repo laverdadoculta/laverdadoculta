@@ -103,7 +103,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .subnav li.twitter-follow,.subnav li.facebook-follow{padding:5px 5px 0 10px;}
 .subnav li.date{float:right;padding:9px 10px;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
-#teaser .col_teaser{width:22.91666666666667%;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 1.04% 12px 0.93%;}
+#teaser .col_teaser{width:22.91666666666667%;min-height:100px;float:left;border-right:1px solid #ddd;padding:10px 1.0416% 12px 0.9375%;}
 #teaser .last{border-right:none;width:221px;}
 #teaser .col_teaser:hover{background:#b22d2d;}
 #teaser .col_teaser:hover a{color:#fff;text-decoration:none;}

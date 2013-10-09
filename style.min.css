@@ -41,7 +41,7 @@ h6{font-size:12px;}
 .widget_rss .widget-title img{width:11px;height:11px;}
 .entry img{display:block;width:100%;height:auto;vertical-align:middle;padding:1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .entry a{margin:0!important;}
-.entry iframe,.entry object,.entry embed{display:block;width:100%;height:auto;border:0;margin:0 auto;}
+.entry iframe,.entry object,.entry embed{display:block;width:100%;border:0;margin:0 auto;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}
 .aligncenter,#content img.aligncenter{clear:both;display:block;margin-left:auto;margin-right:auto;margin-bottom:7px;}

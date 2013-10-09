@@ -6,7 +6,6 @@ caption,th,td{text-align:left;font-weight:400;float:none!important;}
 table,th,td{vertical-align:middle;}
 blockquote:before,blockquote:after,q:before,q:after{content:'';}
 blockquote,q{quotes:;}
-a img{border:none;}
 :focus{outline:0;}
 ol,ul{list-style:none;}
 li{line-height:120%;}
@@ -42,7 +41,6 @@ h6{font-size:12px;}
 .entry img{padding:1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .entry iframe,.entry object,.entry embed{width:100%;margin:0 auto;}
 .post-body .separator img{width:100%;height:auto;margin:0 auto;}
-.separator a{margin:0!important;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}
 .aligncenter,#content img.aligncenter{clear:both;display:block;margin-left:auto;margin-right:auto;margin-bottom:7px;}
@@ -63,6 +61,7 @@ body{background:#eee;color:#333;font:14px/19px Arial,Helvetica,sans-serif;line-h
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
+a img{border:none;}
 .share-addthis a{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .widget{font:13px/20px Arial,Helvetica,sans-serif;}

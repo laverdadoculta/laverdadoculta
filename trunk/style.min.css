@@ -39,7 +39,8 @@ h6{font-size:12px;}
 .tabs a:active{outline:none;}
 .tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:5px 10px 2px 9px;cursor:default!important}
 .widget_rss .widget-title img{width:11px;height:11px;}
-.entry img{max-width:640px;padding: 1px;border: solid 1px #E1E1E1;background-color: #fff;}
+.entry img{width:100%;height:auto;vertical-align:middle;max-width:640px;padding: 1px;border: solid 1px #E1E1E1;background-color: #fff;}
+.entry a{margin:0!important;}
 .entry iframe{width:100%;max-width:640px;}
 .alignleft,#content img.alignleft{display:inline;float:left;margin-right:15px;margin-top:5px;}
 .alignright,#content img.alignright{display:inline;float:right;margin-left:15px;margin-top:6px;}
@@ -286,8 +287,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #main,#main-wrapper,#container,#tabcontent,#primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
 #logo{width:60%;text-align:center;margin:10px 1.04% 10px 1.35%;}
 #logo img{max-width:100%;}
-.entry img{width:100%;height:auto;vertical-align:middle;}
-.entry a{margin:0!important;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
 #mainmenu ul{width:100%;display:block;height:auto;}

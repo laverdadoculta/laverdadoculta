@@ -288,6 +288,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #logo{width:60%;text-align:center;margin:10px 1.04% 10px 1.35%;}
 #logo img{max-width:100%;}
 .border_right_15{border-right:0;}
+.entry iframe,.entry object,.entry embed{height:auto}
 #mainmenu{background:#333;height:auto;}
 #mainmenu ul{width:100%;display:block;height:auto;}
 #mainmenu li{width:50%;float:left;position:relative;}

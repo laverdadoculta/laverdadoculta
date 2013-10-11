@@ -58,14 +58,14 @@ input[type=text],input[type=password],input.text,input.title,textarea,select{mar
 .thumb{border:1px solid #ddd;margin-bottom:5px;display:block;height:1%;overflow:hidden;padding:2px;}
 .clear{clear:both;display:block;}
 a.positive:hover,button.positive:hover{background-color:#E6EFC2;border:1px solid #C6D880;color:#529214;}
-body{background:#eee;color:#333;font:14px/19px Arial,Helvetica,sans-serif;line-height:1.25;}
+body{background:#eee;color:#333;font:1.4em Arial,Helvetica,sans-serif;line-height:1.25;}
 #wrapper{max-width:1108px; min-width:320px;background:#fff;margin:0 auto;padding:5px 10px 10px;}
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
 .share-addthis a{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
-.widget{font:13px/20px Arial,Helvetica,sans-serif;}
+.widget{font:1.3em Arial,Helvetica,sans-serif;}
 .widget a:hover,.widget a:active{color:#000;}
 #wrapper .featuredPost{padding-bottom:6px;border-bottom:1px dotted #666;margin-bottom:6px;}
 #wrapper .lastPost{border:none;margin-bottom:0;padding-bottom:0;}
@@ -74,7 +74,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .posttitle{font-size:2em;line-height:22px;margin:0 0 6px;}
 #header{max-width:1108px; min-width:320px;margin:0 auto 10px;}
 #masthead{width:100%;height:28px;background:#f5f5f5;padding:0 4px 0 2px;}
-.mastheadnav{font:bold 12px Georgia,helvetica,sans-serif;list-style:none;padding-left:0;}
+.mastheadnav{font:bold 1.2em Georgia,helvetica,sans-serif;list-style:none;padding-left:0;}
 .mastheadnav li a{color:#069;display:block;padding:6px 10px 7px;}
 #search{width:auto;float:right;height:20px;background:#fff;margin:3px 3px 0 0;}
 #search form,#search fieldset{float:left;margin:0;padding:0;}
@@ -101,7 +101,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .mainnav:after{clear:both;}
 .mainnav{zoom:1;}
 #submenu{width: 100%;height:33px;background:#e8e8e8;}
-.subnav{font:bold 12px arial,helvetica,sans-serif;list-style:none;}
+.subnav{font:bold 1.2em arial,helvetica,sans-serif;list-style:none;}
 .subnav li.twitter-follow,.subnav li.facebook-follow{padding:5px 5px 0 10px;}
 .subnav li.date{float:right;padding:9px 10px;}
 #teaser{border:1px solid #ddd;text-align:left;margin-bottom:10px;width:100%;overflow:hidden;}
@@ -130,7 +130,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #mediabar #previous_button{position:absolute;width:25px;height:210px;left:0;top:0;background:url(http://1.bp.blogspot.com/-szsOEVmQRxo/TrOsHTOK6QI/AAAAAAAAAKQ/Wt_1L8RjJWQ/left.gif) no-repeat center center;z-index:100;cursor:pointer;}
 #mediabar #next_button{position:absolute;right:0;top:0;width:25px;height:210px;background:url(http://2.bp.blogspot.com/-L6AaS9A6j7w/TrOtbwaVoyI/AAAAAAAAALA/miXTz_tPfn0/right.gif) no-repeat center center;z-index:100;cursor:pointer;}
 #primary_bottomleft{float:left;width:50.38759689922481%;}
-#primary_bottomright{display:block;width:46.51162790697674%;font:bold 12px/13px arial,verdana,sans-serif;float:right;overflow: hidden;}
+#primary_bottomright{display:block;width:46.51162790697674%;font:bold 1.2em arial,verdana,sans-serif;float:right;overflow: hidden;}
 #primary_bottomright iframe{width:100%;}
 #tabcontent{width:100%;overflow:hidden;display:block;}
 #tabcontent_title{width:100%;overflow:hidden;background:url(http://4.bp.blogspot.com/-bxFyy-bHmlo/TrOrlpNAWfI/AAAAAAAAAIM/0Ng7c80MxWE/bgr_tabs_title.gif) repeat-x bottom;}
@@ -175,7 +175,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer p{padding:5px 0;}
 #footer a{color:#ccc;}
 #footer a:hover{color:#fff;text-decoration:none;}
-#footer .widget h2{margin-bottom:5px;font:bold 13px Georgia,tahoma,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
+#footer .widget h2{margin-bottom:5px;font:bold 1.3em Georgia,tahoma,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
 #footer .widget .title a,#footer .widgettitle a:hover{color:#f6f7f7;}
 #foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;display:inline;}
 #footer_data{color:#797979;font-size:1.1em;display:block;max-width:1108px; min-width:320px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}
@@ -203,7 +203,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry blockquote:before,.entry blockquote:after{font-size:3.5em;position:absolute;}
 .entry blockquote:before{content:"\201c";left:-1px;top:22px;}
 .entry blockquote:after{content:"\201d";bottom:-7px;margin-left:3px;}
-.entry h1.entry_title{display:block;padding-bottom:5px;font:normal 32px/41px Georgia,Helvetica,sans-serif;letter-spacing:-1px;line-height:1.2em;color:#222;margin:0;}
+.entry h1.entry_title{display:block;padding-bottom:5px;font:normal 3.2em Georgia,Helvetica,sans-serif;letter-spacing:-1px;line-height:1.2em;color:#222;margin:0;}
 .entry h1,.entry h2,.entry h3,.entry h4,.entry h5,.entry h6{margin-bottom:15px;margin-top:10px;}
 .entry h1,.entry h2,.entry h4{font-family:Georgia,Helvetica,sans-serif;}
 .entry ul li{list-style-type: disc;}
@@ -226,7 +226,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .numbered-pagination .current{color:#444;background:#ddd;display:block;float:left;padding:1px 7px;}
 .numbered-pagination a:hover{border:solid 1px #777;text-decoration:none;}
 .breadcrumbs{display:block;font-size:1.1em;color:#666;}
-.archiveTitle{color:#069;font:normal 22px/22px "Times New Roman",Times,serif!important;margin:0 0 10px!important;}
+.archiveTitle{color:#069;font:normal 2.2em "Times New Roman",Times,serif!important;margin:0 0 10px!important;}
 .entryDate{background:url(http://3.bp.blogspot.com/-JA7hIxhAkwA/TrOr1kCLJ5I/AAAAAAAAAJM/qrvfZaKNZaI/date.gif) no-repeat left center;padding-left:18px;float:left;width:auto;}
 .entryComment{background:url(http://3.bp.blogspot.com/-PMRK-MeHsbE/TrOr0WzEfQI/AAAAAAAAAI0/s713sN-3geQ/comment.gif) no-repeat left center;padding-left:18px;float:right;width:auto;}
 .read_on{background:url(http://4.bp.blogspot.com/-lfsklx_5fmk/TrOr1KeSZiI/AAAAAAAAAJA/KGZLTLkaQSk/continue.png) no-repeat left center;padding:4px 0 4px 22px;}

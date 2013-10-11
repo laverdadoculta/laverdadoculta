@@ -39,6 +39,7 @@ h6{font-size:12px;}
 .tabs a:active{outline:none;}
 .tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:5px 10px 2px 9px;cursor:default!important}
 .widget_rss .widget-title img{width:11px;height:11px;}
+.post-body{font: normal 14px/20px Arial,Helvetica,sans-serif;}
 .post-body img{width:100%;height:auto;padding:1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .post-body iframe,.post-body object,.post-body embed{width:100%;height:360px;margin:0 auto;}
 .post-body .separator img{max-height:357px;margin:0 auto;}

@@ -39,7 +39,6 @@ h6{font-size:12px;}
 .tabs a:active{outline:none;}
 .tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:5px 10px 2px 9px;cursor:default!important}
 .widget_rss .widget-title img{width:11px;height:11px;}
-.post-body{font: normal 14px/20px Arial,Helvetica,sans-serif;}
 .post-body img{width:100%;height:auto;padding:1px;border: solid 1px #E1E1E1;background-color: #fff;}
 .post-body iframe,.post-body object,.post-body embed{width:100%;height:360px;margin:0 auto;}
 .post-body .separator img{max-height:357px;margin:0 auto;}
@@ -66,7 +65,7 @@ ul,ol,li{list-style:none;margin:0;padding:0;}
 a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
 .share-addthis a{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
-.widget{font:12px/18px Arial,Helvetica,sans-serif;}
+.widget{font:13px/20px Arial,Helvetica,sans-serif;}
 .widget a:hover,.widget a:active{color:#000;}
 #wrapper .featuredPost{padding-bottom:6px;border-bottom:1px dotted #666;margin-bottom:6px;}
 #wrapper .lastPost{border:none;margin-bottom:0;padding-bottom:0;}

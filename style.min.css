@@ -1,4 +1,4 @@
-html{margin:0;padding:0;border:0;}
+html{font-size: 62.5%;margin:0;padding:0;border:0;}
 body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,nav,section{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
 article,aside,dialog,figure,footer,header,hgroup,nav,section{display:block;}
 table{border-collapse:separate;border-spacing:0;}
@@ -15,14 +15,14 @@ dd{margin:0;padding:0 0 .5em;}
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none;}
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover{text-decoration:none;}
 h1,h2,h3,h4,h5,h6{margin:0;line-height:1;}
-h1{font-size:30px;}
-h2{font-size:23px;}
-h3{font-size:20px;}
-h4{font-size:16px;}
-h5{font-size:14px;}
-h6{font-size:12px;}
+h1{font-size:3em;}
+h2{font-size:2.3em;}
+h3{font-size:2em;}
+h4{font-size:1.6em;}
+h5{font-size:1.4em;}
+h6{font-size:1.2em;}
 .widget .widget{width:auto!important;margin:0!important;}
-.widget .title{color:#b22d2d;font:bold 16px Georgia,Helvetica,sans-serif;letter-spacing:-1px;border-bottom:none;margin:0 0 5px;padding:0;}
+.widget .title{color:#b22d2d;font:bold 1.6em Georgia,tahoma,sans-serif;letter-spacing:-1px;border-bottom:none;margin:0 0 5px;padding:0;}
 .widget p{margin-bottom:10px;}
 .widget ul{clear:both;padding-left:5px;list-style-position:inside;list-style-type:disc;}
 .widget ul li{padding-bottom:8px;margin-bottom:7px;}
@@ -175,7 +175,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer p{padding:5px 0;}
 #footer a{color:#ccc;}
 #footer a:hover{color:#fff;text-decoration:none;}
-#footer .widget h2{margin-bottom:5px;font:bold 13px Georgia,Helvetica,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
+#footer .widget h2{margin-bottom:5px;font:bold 13px Georgia,tahoma,sans-serif;letter-spacing:0;color:#f6f7f7;padding:0 0 5px;}
 #footer .widget .title a,#footer .widgettitle a:hover{color:#f6f7f7;}
 #foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width: 20.83333333333333%;float: left;margin: 2% 1% 2% 2.6%;padding:0;display:inline;}
 #footer_data{color:#797979;font-size:11px;display:block;max-width:1108px; min-width:320px;background:#202020;border-top:1px solid #393835;border-bottom:1px solid #666;margin:0 auto;padding:3px 10px;}

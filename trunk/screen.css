@@ -1,4 +1,4 @@
-html{font-size: 62.5%;margin:0;padding:0;border:0;}
+html{margin:0;padding:0;border:0;}
 body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,nav,section{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
 article,aside,dialog,figure,footer,header,hgroup,nav,section{display:block;}
 table{border-collapse:separate;border-spacing:0;}
@@ -58,7 +58,7 @@ input[type=text],input[type=password],input.text,input.title,textarea,select{mar
 .thumb{border:1px solid #ddd;margin-bottom:5px;display:block;height:1%;overflow:hidden;padding:2px;}
 .clear{clear:both;display:block;}
 a.positive:hover,button.positive:hover{background-color:#E6EFC2;border:1px solid #C6D880;color:#529214;}
-body{background:#eee;color:#333;font:1.4em Arial,Helvetica,sans-serif;line-height:1.25;}
+body{background:#eee;color:#333;font:62.5% Arial,Helvetica,sans-serif;line-height:1.25;}
 #wrapper{max-width:1108px; min-width:320px;background:#fff;margin:0 auto;padding:5px 10px 10px;}
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}

@@ -269,6 +269,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .tophome{float: left;}
 .printlink{float: right;}
 .adv-banner{margin-bottom:10px;border:1px solid #D9D9D9;padding:4px;}
+.adv-banner img{width:100%;height:auto;}
 
 @media screen and (max-width: 1108px) and (min-width: 980px) {
 .fb_iframe_widget,.comments-page .fb_iframe_widget span iframe[style],.comments-page .fb_iframe_widget span{width:100%!important;}

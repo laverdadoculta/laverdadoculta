@@ -200,7 +200,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .share-google,.share-twitter,.share-addthis{float:left;padding-right: 10px;}
 .share-facebook{float:left;width:121px;padding-right: 10px;}
 .postCategory{padding-left:15px;background:url(http://2.bp.blogspot.com/-ufkUoySMd58/TrOsGsVqB-I/AAAAAAAAAKE/x3S-tihaBjI/folder.gif) no-repeat left center;}
-.entry blockquote{background:url(http://3.bp.blogspot.com/-J4kuYtXXjsE/UWYLUrAk4dI/AAAAAAAAS9k/HW0fW1Toikg/s1600/blockquote%5B1%5D.png) no-repeat scroll -130px -15px transparent;color:#333;float:right;font:normal 16px/22px Georgia, "Times New Roman", Times, serif;letter-spacing: -1px;width:150px;position:relative;margin:5px 10px 10px 0;padding:15px 15px 0 20px;}
+.entry blockquote{background:url(http://3.bp.blogspot.com/-J4kuYtXXjsE/UWYLUrAk4dI/AAAAAAAAS9k/HW0fW1Toikg/s1600/blockquote%5B1%5D.png) no-repeat scroll -130px -15px transparent;color:#333;float:right;font:normal 16px/22px Georgia,"Times New Roman",Times, serif;letter-spacing:-1px;width:150px;position:relative;margin:5px 10px 10px 0;padding:15px 15px 0 20px;}
 .entry blockquote:before,.entry blockquote:after{font-size:35px;position:absolute;}
 .entry blockquote:before{content:"\201c";left:-1px;top:22px;}
 .entry blockquote:after{content:"\201d";bottom:-7px;margin-left:3px;}

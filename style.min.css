@@ -265,7 +265,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .entry h3,.entry h5,.entry h6{font-family:arial,verdana,sans-serif;}
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
 .post-relacionados ul{padding-left:5px;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0;}
-.post-relacionados ul li{font: normal 12px/18px Arial, Helvetica, Garuda, sans-serif;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;margin:0 0 0 20px;clear: both;}
+.post-relacionados ul li{font: normal 12px/18px Georgia,Helvetica,sans-serif;list-style-image:url(http://lh4.googleusercontent.com/-VAjVyyOnCM0/TtK7Co1j2lI/AAAAAAAAGgI/2DcyYKDp9ow/s10/z-double-arrow.png);list-style-position:outside;list-style-type:none;margin:0 0 0 20px;clear: both;}
 .morelinks{height: 25px;border: 0;margin-bottom: 0;}
 .tophome{float: left;}
 .printlink{float: right;}

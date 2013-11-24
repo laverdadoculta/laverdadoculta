@@ -3,10 +3,10 @@
 $.fn.stickySidebar = function( options ) {
  
 var config = $.extend({
-headerSelector: 'header',
-navSelector: 'nav',
+headerSelector: '#header',
+navSelector: '#submenu',
 contentSelector: '#content',
-footerSelector: 'footer',
+footerSelector: '#footer',
 sidebarTopMargin: 20,
 footerThreshold: 40
 }, options);

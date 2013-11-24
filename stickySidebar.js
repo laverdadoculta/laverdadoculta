@@ -5,7 +5,7 @@ $.fn.stickySidebar = function( options ) {
 var config = $.extend({
 headerSelector: '#header',
 navSelector: '#submenu',
-contentSelector: '#content',
+contentSelector: '.entry',
 footerSelector: '#footer',
 sidebarTopMargin: 20,
 footerThreshold: 40

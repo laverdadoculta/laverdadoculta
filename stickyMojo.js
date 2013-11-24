@@ -75,7 +75,7 @@
         if (settings.orientation === "left") {
           settings.contentID.css('margin-left', sticky.el.outerWidth(true));
         } else {
-          sticky.el.css('margin-left', settings.contentID.outerWidth(false));
+          sticky.el.css('margin-left', settings.contentID.outerWidth(true));
         }
       }
 

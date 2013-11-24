@@ -73,9 +73,9 @@
       // Determines the sidebar orientation and sets margins accordingly
       function checkOrientation() {
         if (settings.orientation === "left") {
-          settings.contentID.css('margin-left', sticky.el.outerWidth(true));
+          settings.contentID.css('margin-left', sticky.el.outerWidth(false));
         } else {
-          sticky.el.css('margin-left', settings.contentID.outerWidth(true));
+          sticky.el.css('margin-left', settings.contentID.outerWidth(false));
         }
       }
 

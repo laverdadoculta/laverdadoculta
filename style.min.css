@@ -272,6 +272,9 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .bitcoin a{color:#8f8f8f;text-decoration:none;}
 .adv-banner{margin-bottom:10px;}
 
+.autofix_sb.fixed {position: fixed !important;left: auto;top: auto;right: auto;bottom: auto;height: 100%;overflow:auto;}
+.autofix_sb.fixed.bottom {bottom: 0;position: absolute !important;}
+
 @media screen and (max-width: 1108px) and (min-width: 980px) {
 .fb_iframe_widget,.comments-page .fb_iframe_widget span iframe[style],.comments-page .fb_iframe_widget span{width:100%!important;}
 }

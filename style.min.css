@@ -28,7 +28,7 @@ h6{font-size:12px;}
 .widget ul li{padding-bottom:8px;margin-bottom:7px;}
 .widget ul ul{border-top:none;padding:0 0 0 15px;}
 .widget img{display:inline;}
-.panes div{border:1px solid #ddd;background-color:#fff;border-top:0;padding:15px 3.33%;word-wrap: break-word;}
+.panes div{border:1px solid #ddd;background-color:#fff;border-top:0;padding:15px 3.33%;}
 .panes .pane,.panes .widgettitle{display:none;}
 .panes li span.block{font-family:Arial,Helvetica,sans-serif;display:block;font-size:11px;}
 .panes li{font-family:Georgia,Helvetica,sans-serif;list-style:disc outside;margin-left:10px;}
@@ -146,7 +146,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .tabright{float:right;width:48.8%;padding-left:1.6%;border-left:1px solid #ddd;}
 a.list{color:#333;display:block;margin-left:5px;background:url(http://1.bp.blogspot.com/-RXb1AE4M0hk/TrOta64MA7I/AAAAAAAAAKk/8pFO1M4JeSg/list_a.gif) no-repeat left 8px;padding:2px 0 2px 10px;}
 a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#000;}
-#sidebar{float:right;width:31.25%;display:inline;overflow:hidden;}
+#sidebar{float:right;width:31.25%;display:inline;overflow:hidden;word-wrap:break-word;}
 #sidebar .widget{margin-bottom:15px;}
 .PopularPosts .item-title{font-family:Georgia,Helvetica,sans-serif;font-size:14px;line-height:18px;}
 #w2b-mashable{width:100%;margin:auto;padding:0;}

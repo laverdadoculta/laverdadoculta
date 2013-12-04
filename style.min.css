@@ -115,7 +115,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #teaser .active .posttitle a,#teaser .active .posttitle a:hover{color:#fff;}
 #teaser .titleCatName a{font-size:10px;background:#000;color:#fff;border-bottom:1px solid #999;display:inline-block;margin:0!important;padding:3px 5px;}
 #teaser .active .titleCatName a{background:#fff;color:#000;}
-#container{float:left;width:67.1875%;}
+#container{float:left;width:67.1875%;word-wrap:break-word;overflow:hidden;}
 #featured{display:block;margin-bottom:15px;}
 #featured_left{width:62.7906976744186%;float:left;}
 #featured_right{width:31.78294573643411%;float:right;text-align:left;padding:1.550387596899225%;background:#f2f2f2;}

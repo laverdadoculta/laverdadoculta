@@ -275,6 +275,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 
 @media (max-width: 1023px){
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}
+#wrapper,#footer,#footer_data{max-width:700px;}
 .border_right_15{border-right:0;}
 #mainmenu{background:#333;height:auto;}
 #mainmenu ul{width:100%;display:block;height:auto;}

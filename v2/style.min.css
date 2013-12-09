@@ -270,7 +270,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .morelinks{height: 25px;border: 0;margin-bottom: 0;}
 .tophome{float: left;}
 .printlink{float: right;}
-.bitcoin a{color:#222;text-decoration:none;}
+.bitcoin a{color:#333;text-decoration:none;}
 .adv-banner{text-align:center;padding-top:15px;padding-bottom:15px;}
 
 @media (max-width: 1023px){

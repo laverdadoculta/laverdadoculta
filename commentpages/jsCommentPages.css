@@ -1,8 +1,4 @@
-/* Comments Tab Styles*/
-.comments > h4 {
-	margin: 0px !important;
-	padding: 5px 10px;
-}
+.comments > h4 {margin:0px !important;padding:5px 10px;}
 .comments-page {
 	display: none;
   background-color: #f2f2f2;
@@ -13,12 +9,8 @@
 	-moz-box-shadow: 0px 0px 2px #666;
 	-webkit-box-shadow: 0px 0px 2px #666;
 }
-#blogger-comments-page {
-  padding: 0px 0px;
-}
-.comment-form {
-  margin: 10px;
-}
+#blogger-comments-page {padding:0px 0px;}
+.comment-form {margin:10px;}
 .comments-tab {
  color: #ffffff;
  float: left;
@@ -39,7 +31,7 @@
  background-image: -moz-linear-gradient(#ffffff,#F2F2F2);
  background-image: -webkit-linear-gradient(#ffffff,#F2F2F2);
 }
-.comments-tab img { height: 14px;  width: auto;  margin: 0px 3px;}
+.comments-tab img {height:14px;width:auto;margin:0px 3px;}
 
 #blogger-comments,
 #blogger-comments.js-inactive-tab:hover {

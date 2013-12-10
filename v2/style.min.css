@@ -63,11 +63,11 @@ body{background:#eee;color:#333;font:14px/19px Arial,Helvetica,sans-serif;line-h
 #wrapper{max-width:975px; min-width:320px;background:#fff;margin:0 auto;padding:5px 10px 10px;overflow:hidden;}
 p{margin:0 0 10px;}
 ul,ol,li{list-style:none;margin:0;padding:0;}
-a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#069;}
+a,a:hover{-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;text-decoration:none;color:#057ec2;}
 .share-addthis a{-moz-transition: none;-webkit-transition: none;-o-transition: none;transition: none;}
 h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 .widget{font:13px/20px Arial,Helvetica,sans-serif;}
-.widget a:hover,.widget a:active{color:#069;}
+.widget a:hover,.widget a:active{color:#057ec2;}
 #wrapper .featuredPost{padding-bottom:6px;border-bottom:1px dotted #666;margin-bottom:6px;}
 #wrapper .lastPost{border:none;margin-bottom:0;padding-bottom:0;}
 #wrapper .lastPost img{width:100%;}

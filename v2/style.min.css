@@ -187,7 +187,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer-right-side{width:50%;float:right;text-align:right;}
 .entry{margin-bottom:10px;padding:15px 10px 5px;}
 .post-footer{margin:5px 0;}
-.post-footer h2.title{margin-bottom: 15px;padding:5px 0;}
+.post-footer h2.title{margin-bottom:15px;padding:5px 0;color:#222;}
 .metasingle{width:100%;color:#777;font-size:11px;margin-bottom: 10px;}
 .metasingle a{color:#999;}
 .article-metadata{border:medium none;position:relative;text-align:right;font-size:.9em;width:100%;margin:0 0 10px;padding:0 0 10px;}
@@ -237,7 +237,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .nav-previous{float:left;width:50%;}
 .nav-next{float:right;text-align:right;width:50%;}
 .comments{margin-top:0!important;}
-.comments h2.title{margin-bottom: 16px;}
+.comments h2.title{margin-bottom: 16px;color:#222;}
 .comments .comments-content .comment-content{text-align:left!important;}
 .comments .comments-content .inline-thread{background:#f6f7f7;border:1px solid #ddd;}
 .comments .comments-content .comment{border-bottom:1px solid #ddd!important;}

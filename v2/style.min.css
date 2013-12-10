@@ -148,7 +148,7 @@ a.list{color:#333;display:block;margin-left:5px;background:url(http://1.bp.blogs
 a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AAAAAAAAAKw/vTT3UwTZ57U/list_hover.gif) no-repeat left 8px;text-decoration:underline;color:#000;}
 #sidebar{float:right;width:300px;display:inline;word-wrap:break-word;overflow:hidden;}
 #sidebar .widget{margin-bottom:15px;}
-.PopularPosts{border: 1px solid #ddd;}
+.popular-posts{border: 1px solid #ddd;}
 .PopularPosts .item-title{font-family:Georgia,Helvetica,sans-serif;font-size:14px;line-height:18px;}
 #w2b-mashable{width:100%;margin:auto;padding:0;}
 .w2b-googleplus{height:105px;}

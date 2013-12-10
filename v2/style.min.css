@@ -255,7 +255,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .widget_rss a.rsswidget,.metasingle a:hover,.breadcrumbs a:hover,.widget a,.widget .title a,.widget .title a:hover,.entry a:hover{color:#000;}
 #wrapper .postmeta a,.posttitle a:hover,.mastheadnav li a:hover,.mastheadnav li.current_page_item a,.mastheadnav li.current-cat a,.mastheadnav li.current-menu-item a,.subnav li a:hover,.subnav li.current_page_item a,.subnav li.current-cat a,.subnav li.current-menu-item a,.featured_right a:hover,.archiveTitle a{color:#000;}
 #wrapper .postmeta a:hover,#mediabar li a:hover,#footer_data a:hover,.entry a:hover,#entryMeta a:hover,.archiveTitle a:hover,.navigation a:active,.navigation a:hover,#comments a:hover,li span.comment-meta a:hover{text-decoration:underline;}
-.posttitle a,.featured_right a,.breadcrumbs a,li div.comment-author a,.entry a{color:#069;}
+.posttitle a,.featured_right a,.breadcrumbs a,li div.comment-author a,.entry a{color:#005b88;}
 #header img,#primary_bottom,#bottom_banners img{display:block;}
 .mastheadnav li,.subnav li{float:left;position:relative;}
 #teaser .odd,ol.commentlist li.odd{background:#f6f7f7;}

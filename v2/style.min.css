@@ -314,7 +314,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 @media only screen and (max-width:319px) {
 #mainmenu li{display:block;float:none;width:100%;}
 #mainmenu li a{border-bottom:1px solid #393835;}
-.adv-banner{display:none;}
 }
 @media print {
 .feed-links,#blog-pager,#masthead,.breadcrumbs,#banner,#mainmenu,#submenu,.article-metadata,#sidebar,.comments,.comments-page,#entryMeta,.morelinks,#footer,#footer-wrapper,#footer_data,.post-footer,.fb_iframe_widget{display:none;}

@@ -35,7 +35,7 @@ h6{font-size:12px;}
 .panes a.pad{display:block;margin:0 0 3px;}
 .tabs{list-style:none;height:31px;border-bottom:1px solid #ddd;font-size:12px;margin:0!important;padding:0!important;}
 .tabs li{float:left;text-indent:0;list-style:none!important;border:0!important;background:none!important;margin:0!important;padding:0 2px 0 0!important;}
-.tabs a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
+.tabs a{float:left;color:#333;background:#ccc;height:24px;padding:8px 10px 0;}
 .tabs a:active{outline:none;}
 .tabs .current,.tabs .current:hover,.tabs li.current a{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:5px 10px 2px 9px;cursor:default!important}
 .widget_rss .widget-title img{width:11px;height:11px;}
@@ -136,7 +136,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #tabcontent{width:100%;overflow:hidden;display:block;}
 #tabcontent_title{width:100%;overflow:hidden;background:url(http://4.bp.blogspot.com/-bxFyy-bHmlo/TrOrlpNAWfI/AAAAAAAAAIM/0Ng7c80MxWE/bgr_tabs_title.gif) repeat-x bottom;}
 #tabcontent_title li{float:left;font-size:12px;text-transform:uppercase;padding:0 2px 0 0;}
-#tabcontent_title li a{float:left;color:#333;background:url(http://3.bp.blogspot.com/-FEQkfD2vdDo/TrOrzRPwwOI/AAAAAAAAAIc/wISJzHt5yys/bgr_tabs_title_a.gif) repeat-x;height:24px;padding:8px 10px 0;}
+#tabcontent_title li a{float:left;color:#333;background:#ccc;height:24px;padding:8px 10px 0;}
 #tabcontent_title li a.selected{color:#333;background:#fff;height:24px;border:1px solid #ddd;border-bottom:0;text-decoration:none;padding:7px 10px 0 9px;}
 .tabcontent_body{width:96.89922480620155%;border:1px solid #ddd;border-top:0;padding:1.39% 1.39% 1.08%;}
 .tabcontent_body .text{width:623px;}

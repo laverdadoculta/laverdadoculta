@@ -306,6 +306,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .share-twitter,#tabcontent{display:none;}
 }
 @media only screen and (max-width:319px) {
+#wrapper{padding: 5px 0px 10px;}
 #mainmenu li{display:block;float:none;width:100%;}
 #mainmenu li a{border-bottom:1px solid #393835;}
 }

@@ -89,7 +89,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #social img{list-style:none;margin-left:2px;margin-right:2px;float:left;}
 #social img:hover{opacity:0.6;}
 #banner{width:auto;float:right;text-align:right;padding-bottom:10px;padding-top:10px;}
-#mainmenu{height:30px;width:100%;background:url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;z-index:10;position:relative;border-bottom:1px solid #555;}
+#mainmenu{height:30px;width:100%;background-color:#222;position:relative;border-bottom:1px solid #555;}
 #mainmenu ul{width:100%;height:30px;margin:0 auto;padding:0;}
 #mainmenu li{display:inline;float:left;}
 #mainmenu a{color:#fff;display:inline-block;width:108px;text-align:center;text-decoration:none;line-height:30px;text-shadow:1px 1px 0 #283744;}
@@ -171,7 +171,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #bottom_banners{width:980px;display:block;background:#666;margin:0 auto;}
 #bottom_banners .leftad{float:left;width:auto;}
 #bottom_banners .rightad{float:right;width:auto;}
-#footer{max-width:975px;background:url(http://2.bp.blogspot.com/-_5mDnJCevbw/UVRlHsZ2OYI/AAAAAAAASpo/gRslXcugjmo/s1600/bg_footer.jpg) repeat-x scroll center top #202020;margin:0 auto;padding:10px;}
+#footer{max-width:975px;background-color:#222;margin:0 auto;padding:10px;}
 .footer_link{color:#999;float:right;font-size:16px;line-height:18px;text-align:right;width:200px;margin:14px 0 10px;}
 .footer_logo{float:left;margin:5px 0 10px;}
 #footer p{padding:5px 0;}
@@ -290,7 +290,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #logo{width:60%;text-align:center;margin:10px 1.04% 10px 1.35%;}
 #logo img{max-width:100%;}
 .post-body iframe,.post-body object,.post-body embed{height:315px}
-#mainmenu a#pull{display:block;background: url(http://3.bp.blogspot.com/-cCnRUU0NN5Q/UVNDCIInwRI/AAAAAAAASnw/RSG4YcG6zBw/s1600/bg-menuoff.jpg) repeat-x;width:100%;position:relative;}
+#mainmenu a#pull{display:block;background-color:#222;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}
 .entry h1.entry_title{font-size:30px;}
 .mastheadnav,#banner,.subnav li.date,#mediabar,#featured_right,#primary_bottomright,.share-addthis,.share-google,.footer_link,#footer-right-side{display:none;}

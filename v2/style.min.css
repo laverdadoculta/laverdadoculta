@@ -298,6 +298,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .fb_iframe_widget span{display:block!important;}
 }
 @media only screen and (max-width:479px) {
+#wrapper{padding: 5px 0px 10px;}
 #foo_widget1,#foo_widget2,#foo_widget3,#foo_widget4{width:100%;}
 .post-body iframe,.post-body object,.post-body embed{height:240px}
 #mainmenu{border-bottom:0;}
@@ -306,7 +307,6 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .share-twitter,#tabcontent{display:none;}
 }
 @media only screen and (max-width:319px) {
-#wrapper{padding: 5px 0px 10px;}
 #mainmenu li{display:block;float:none;width:100%;}
 #mainmenu li a{border-bottom:1px solid #393835;}
 }

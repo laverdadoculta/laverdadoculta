@@ -269,13 +269,13 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #footer .widget,.entry h3.widgettitle{margin-bottom:0;}
 #footer .widget ul a,#footer .widget ul a:hover{font-size:12px;color:#ccc!important;}
 .img-contacto,.img-movil,.img-newsletter,.img-feeds,.img-chat,.img-acercade,.img-sitemap{background:url(http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png) no-repeat;padding-left:20px;}
-.img-contacto{background:0 -188px;}
-.img-movil{background:0 -162px;}
-.img-newsletter{background:0 -136px;}
-.img-feeds{background:0 -110px;}
-.img-chat{background:0 -84px;}
-.img-acercade{background:0 -58px;}
-.img-sitemap{background:0 -32px;}
+.img-contacto{background-position:0 -188px;}
+.img-movil{background-position:0 -162px;}
+.img-newsletter{background-position:0 -136px;}
+.img-feeds{background-position:0 -110px;}
+.img-chat{background-position:0 -84px;}
+.img-acercade{background-position:0 -58px;}
+.img-sitemap{background-position:0 -32px;}
 .entry h3,.entry h5,.entry h6{font-family:arial,verdana,sans-serif;}
 .entry ul,.entry ol{margin-bottom:15px;padding-left:30px;}
 .post-relacionados{border-bottom: 1px solid #ddd;border-top: 3px solid #ccc;margin: 5px 0 10px;padding: 15px 0 10px;}

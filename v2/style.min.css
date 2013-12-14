@@ -86,7 +86,7 @@ h1,h2,h3,h4,h5,h6{font-family:Georgia,Helvetica,sans-serif;font-weight:400;}
 #logo a{color:#333;display:block;font-size:26px;letter-spacing:-1px;}
 #logo a span{font-size:16px;padding-left:5px;display:block;}
 #social{margin-top:10px;}
-#social a{float: left;width:32px;height:32px:background-image:url(http://2.bp.blogspot.com/-mQO6-uEJNNE/UquwQMG5sMI/AAAAAAAAbDI/z27pDSYjgiA/s320/sprites.png);margin-right: 8px;}
+#social a{float: left;width:32px;height:32px;background-image:url(http://2.bp.blogspot.com/-mQO6-uEJNNE/UquwQMG5sMI/AAAAAAAAbDI/z27pDSYjgiA/s320/sprites.png);margin-right:8px;}
 #social img:hover{opacity:0.6;}
 .img-facebook{background-position:0 -434px;}
 .img-twitter{background-position:0 -392px;}

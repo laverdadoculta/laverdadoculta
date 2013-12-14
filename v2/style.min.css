@@ -226,7 +226,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #entryMeta{font-size:12px;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;padding: 5px 0;margin: 20px 0;}
 #entryMeta a{color:#8f8f8f;text-decoration:none;}
 #entryMeta .tags-caption span.tag{display: block;float: left;margin: 2px 7px 0 0;width: 16px;height: 16px;background: url("http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png") no-repeat transparent 0px -240px;}
-.printlink .print{background: url(http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png) left no-repeat 0px -214px;padding-left: 20px;}
+.printlink .print{background: url(http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png)no-repeat 0px -214px;padding-left: 20px;}
 .numbered-pagination{text-shadow:none;font-size:12px;color:#666;margin-bottom:5px;}
 .numbered-pagination a{border:solid 1px #ccc;display:block;float:left;color:#666;margin-right:5px;padding:1px 7px;}
 .numbered-pagination span{border:solid 1px #ccc;display:block;float:left;margin-right:5px;padding:1px 7px;}

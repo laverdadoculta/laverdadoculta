@@ -268,7 +268,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 #mediabar #previous_button.disabled,#mediabar #next_button.disabled{background:url(http://4.bp.blogspot.com/-ZeFFWtH5z64/TrOsEgJUIdI/AAAAAAAAAJg/t2CQZJ28Lh0/disable.gif) no-repeat center center;cursor:default;}
 #footer .widget,.entry h3.widgettitle{margin-bottom:0;}
 #footer .widget ul a,#footer .widget ul a:hover{font-size:12px;color:#ccc!important;}
-.img-contacto,.img-movil,.img-newsletter,.img-feeds,.img-chat,.img-acercade,.img-sitemap{background-image: url(http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png);padding-left: 18px;}
+.img-contacto,.img-movil,.img-newsletter,.img-feeds,.img-chat,.img-acercade,.img-sitemap{background:url(http://3.bp.blogspot.com/-OcJEKEVH_EU/Uqu18ZZOMtI/AAAAAAAAbDY/noTPGLj0XoU/s1600/sprites.png) no-repeat;padding-left:20px;}
 .img-contacto{background-position:0 -188px;}
 .img-movil{background-position:0 -162px;}
 .img-newsletter{background-position:0 -136px;}

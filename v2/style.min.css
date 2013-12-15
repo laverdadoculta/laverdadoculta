@@ -302,8 +302,8 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 }
 @media (max-width: 767px){
 #primary_bottomleft,#featured_left,#footer-left-side{width:100%;}
-#logo{width:60%;height:auto;text-align:center;margin:10px 1.04% 10px 1.35%;}
-#logo img{max-width:100%;}
+#logo{width:60%;text-align:center;margin:10px 1.04% 10px 1.35%;}
+#logo img{max-width:100%;height:auto;}
 .post-body iframe,.post-body object,.post-body embed{height:315px}
 #mainmenu a#pull{display:block;background-color:#222;width:100%;position:relative;}
 #mainmenu a#pull:after{content:"";background:url(http://3.bp.blogspot.com/-KlnEKPLxw3g/UksKR28RSPI/AAAAAAAAXE8/kcRaFg9Zkvc/s1600/nav-icon.png) no-repeat;width:30px;height:30px;display:inline-block;position:absolute;right:15px;top:5px;}

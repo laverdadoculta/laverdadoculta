@@ -286,7 +286,7 @@ a:hover.list{background:url(http://4.bp.blogspot.com/-P6iJ5zlkVOo/TrOtbPOeWAI/AA
 .tophome{float: left;}
 .printlink{float: right;}
 .bitcoin a{color:#333;text-decoration:none;}
-.adv-banner{text-align:center;padding-top:15px;padding-bottom:15px;}
+.adv-banner{padding-top:15px;padding-bottom:15px;padding-left: 80px;}
 
 @media (max-width: 1023px){
 #main,#main-wrapper,#container,#tabcontent.ftimg{width:100%;}

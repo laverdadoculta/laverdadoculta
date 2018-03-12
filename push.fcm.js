@@ -337,3 +337,16 @@ function getRoot() {
         plugin: FCMPlugin
     };
 });
+
+var config = {
+    apiK    apiKey: "AIzaSyANbu2tivm242tSMM9meOrDRm9N03OgIQk",
+    authDomain: "la-verdad-oculta-1492430268318.firebaseapp.com",
+    databaseURL: "https://la-verdad-oculta-1492430268318.firebaseio.com",
+    projectId: "la-verdad-oculta-1492430268318",
+    storageBucket: "la-verdad-oculta-1492430268318.appspot.com",
+    messagingSenderId: "137353849542"
+};
+
+Push.config({
+    FCM: config
+});

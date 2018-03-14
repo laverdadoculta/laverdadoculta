@@ -81,12 +81,12 @@ function getToken() {
             messaging.getToken()
                 .then(function (token) {
                     console.log('token', token);
-                    fetch('/fcm/register/' + token, {
+                    fetch('https://fcm.googleapis.com/fcm/send/' + token, {
                         'method': 'POST',
                         'Content-Type': 'application/json'
                     }).then(function (res) {
                         // Если подписка разрешена, то получим объект с данными подписки
-                        console.log('/fcm/register/ responsed: ', res);
+                        console.log('https://fcm.googleapis.com/fcm/send/fcm/register/ responsed: ', res);
                     }).catch(function (error) {
                         console.error('Unable to get permission to notify.', error);
                     });

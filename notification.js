@@ -1,12 +1,12 @@
 var config = {
-    apiKey: "AIzaSyAaf-4vaiqhH8HTRyq4zWkCFoX9x82cdsU",
-    authDomain: "web-notifications-c3ca0.firebaseapp.com",
-    databaseURL: "https://web-notifications-c3ca0.firebaseio.com",
-    projectId: "web-notifications-c3ca0",
-    storageBucket: "web-notifications-c3ca0.appspot.com",
-    messagingSenderId: "543434318086"
+    apiKey: "AIzaSyANbu2tivm242tSMM9meOrDRm9N03OgIQk",
+    authDomain: "la-verdad-oculta-1492430268318.firebaseapp.com",
+    databaseURL: "https://la-verdad-oculta-1492430268318.firebaseio.com",
+    projectId: "la-verdad-oculta-1492430268318",
+    storageBucket: "la-verdad-oculta-1492430268318.appspot.com",
+    messagingSenderId: "137353849542"
 };
-var key = 'AAAAfoc1oQY:APA91bFy-X8gaE9LDc6Z68iy8EJZjNk6sdrew74T__sOv6ImnpWclif-3Z5F4K-SdCFcm6vvocVW4tzJEQULNa8FRqQkTN0xBIuJXIw0DHiZG76QgMfnzMbdOouBlZtFgC_4Tzm5khlB';
+var key = 'AAAAH_rtasY:APA91bG5HAYy3RVnInFEC-2YGrP6PVnPlb-U0GVG7izJ0QZiQzaHIkoCX_FiJPv7k4Bm74S-JhcI7CWfVQuqUnOoZ9VNe6Ntx5rLxVp2rDDtCqt36bnCMV-1WoRLC043vjhOm1bC-5-w';
 var topic = 'web-test-topic';
 
 firebase.initializeApp(config);
